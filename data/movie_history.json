@@ -1,85 +1,5 @@
 [
   {
-    "title": "The Mandalorian and Grogu",
-    "date": "2026-05-29T21:11:28.720035"
-  },
-  {
-    "title": "12 Angry Men",
-    "date": "2026-05-29T21:11:29.457098"
-  },
-  {
-    "title": "Your Heart Will Be Broken",
-    "date": "2026-05-30T00:10:55.759523"
-  },
-  {
-    "title": "Spirited Away",
-    "date": "2026-05-30T00:10:57.126737"
-  },
-  {
-    "title": "Mortal Kombat",
-    "date": "2026-05-30T14:27:30.311693"
-  },
-  {
-    "title": "Your Name.",
-    "date": "2026-05-30T14:27:31.163809"
-  },
-  {
-    "title": "Remarkably Bright Creatures",
-    "date": "2026-05-30T23:16:24.819329"
-  },
-  {
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "date": "2026-05-30T23:16:25.644963"
-  },
-  {
-    "title": "Parasite",
-    "date": "2026-05-31T14:45:39.413740"
-  },
-  {
-    "title": "Project Hail Mary",
-    "date": "2026-05-31T14:45:40.282013"
-  },
-  {
-    "title": "Tom Clancy's Jack Ryan: Ghost War",
-    "date": "2026-05-31T23:16:08.530888"
-  },
-  {
-    "title": "The Matrix",
-    "date": "2026-05-31T23:16:09.539543"
-  },
-  {
-    "title": "The Godfather",
-    "date": "2026-06-01T19:11:14.334248"
-  },
-  {
-    "title": "Michael",
-    "date": "2026-06-01T19:11:15.175040"
-  },
-  {
-    "title": "KPop Demon Hunters",
-    "date": "2026-06-02T01:16:41.028351"
-  },
-  {
-    "title": "The Shawshank Redemption",
-    "date": "2026-06-02T01:16:41.715365"
-  },
-  {
-    "title": "Dilwale Dulhania Le Jayenge",
-    "date": "2026-06-02T16:26:37.109135"
-  },
-  {
-    "title": "The Godfather Part II",
-    "date": "2026-06-02T16:26:37.758577"
-  },
-  {
-    "title": "Interstellar",
-    "date": "2026-06-03T00:57:24.355533"
-  },
-  {
-    "title": "Door II: Tokyo Diary",
-    "date": "2026-06-03T00:57:24.840841"
-  },
-  {
     "title": "Scary Movie",
     "date": "2026-06-03T17:43:44.961943"
   },
@@ -262,5 +182,13 @@
   {
     "title": "Pulp Fiction",
     "date": "2026-06-14T15:09:25.854632"
+  },
+  {
+    "title": "Parasite",
+    "date": "2026-06-14T23:32:35.450227"
+  },
+  {
+    "title": "Spirited Away",
+    "date": "2026-06-14T23:32:36.008391"
   }
 ]

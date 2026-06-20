@@ -1,85 +1,5 @@
 [
   {
-    "title": "Scary Movie",
-    "date": "2026-06-03T17:43:44.961943"
-  },
-  {
-    "title": "Mortal Kombat II",
-    "date": "2026-06-03T17:43:45.109336"
-  },
-  {
-    "title": "Swapped",
-    "date": "2026-06-04T01:03:24.301287"
-  },
-  {
-    "title": "Forrest Gump",
-    "date": "2026-06-04T01:03:25.590191"
-  },
-  {
-    "title": "Obsession",
-    "date": "2026-06-04T15:57:52.769560"
-  },
-  {
-    "title": "Schindler's List",
-    "date": "2026-06-04T15:57:53.577668"
-  },
-  {
-    "title": "Lee Cronin's The Mummy",
-    "date": "2026-06-04T23:59:26.820103"
-  },
-  {
-    "title": "Mark",
-    "date": "2026-06-04T23:59:28.045056"
-  },
-  {
-    "title": "The Shadow's Edge",
-    "date": "2026-06-05T15:53:18.451733"
-  },
-  {
-    "title": "The Lord of the Rings: The Return of the King",
-    "date": "2026-06-05T15:53:19.776318"
-  },
-  {
-    "title": "The Good, the Bad and the Ugly",
-    "date": "2026-06-05T23:50:18.360917"
-  },
-  {
-    "title": "Toy Story 5",
-    "date": "2026-06-05T23:50:18.734661"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "date": "2026-06-06T14:34:59.281175"
-  },
-  {
-    "title": "The Furious",
-    "date": "2026-06-06T14:35:00.547756"
-  },
-  {
-    "title": "The Punisher: One Last Kill",
-    "date": "2026-06-06T23:20:54.545906"
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "date": "2026-06-06T23:20:57.523194"
-  },
-  {
-    "title": "Kraken",
-    "date": "2026-06-07T14:49:37.013705"
-  },
-  {
-    "title": "Madness",
-    "date": "2026-06-07T14:49:37.917319"
-  },
-  {
-    "title": "Rape of Love",
-    "date": "2026-06-07T23:22:12.670331"
-  },
-  {
-    "title": "Backrooms",
-    "date": "2026-06-07T23:22:12.874193"
-  },
-  {
     "title": "In the Grey",
     "date": "2026-06-08T17:20:32.991215"
   },
@@ -278,5 +198,13 @@
   {
     "title": "Saccharine",
     "date": "2026-06-20T14:59:40.841411"
+  },
+  {
+    "title": "Backrooms",
+    "date": "2026-06-20T23:30:14.325319"
+  },
+  {
+    "title": "Madness",
+    "date": "2026-06-20T23:30:15.338103"
   }
 ]

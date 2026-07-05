@@ -1,85 +1,5 @@
 [
   {
-    "title": "Salitan",
-    "date": "2026-06-18T16:07:01.320229"
-  },
-  {
-    "title": "Damage",
-    "date": "2026-06-18T16:07:02.623034"
-  },
-  {
-    "title": "The Shawshank Redemption",
-    "date": "2026-06-19T00:11:30.155824"
-  },
-  {
-    "title": "The Odyssey",
-    "date": "2026-06-19T00:11:31.164137"
-  },
-  {
-    "title": "Michael",
-    "date": "2026-06-19T16:29:06.533726"
-  },
-  {
-    "title": "Bhooth Bangla",
-    "date": "2026-06-19T16:29:07.842739"
-  },
-  {
-    "title": "Minions & Monsters",
-    "date": "2026-06-19T23:40:04.200482"
-  },
-  {
-    "title": "Your Fault: London",
-    "date": "2026-06-19T23:40:05.120697"
-  },
-  {
-    "title": "Your Heart Will Be Broken",
-    "date": "2026-06-20T14:59:40.310536"
-  },
-  {
-    "title": "Saccharine",
-    "date": "2026-06-20T14:59:40.841411"
-  },
-  {
-    "title": "Backrooms",
-    "date": "2026-06-20T23:30:14.325319"
-  },
-  {
-    "title": "Madness",
-    "date": "2026-06-20T23:30:15.338103"
-  },
-  {
-    "title": "Cocktail 2",
-    "date": "2026-06-21T15:29:04.327587"
-  },
-  {
-    "title": "The Good, the Bad and the Ugly",
-    "date": "2026-06-21T15:29:04.730972"
-  },
-  {
-    "title": "Scary Movie",
-    "date": "2026-06-21T23:38:57.652642"
-  },
-  {
-    "title": "The Super Mario Galaxy Movie",
-    "date": "2026-06-21T23:38:58.384248"
-  },
-  {
-    "title": "Greenland 2: Migration",
-    "date": "2026-06-22T18:34:44.349353"
-  },
-  {
-    "title": "Schindler's List",
-    "date": "2026-06-22T18:34:45.842735"
-  },
-  {
-    "title": "Protector",
-    "date": "2026-06-23T00:47:44.335682"
-  },
-  {
-    "title": "The Furious",
-    "date": "2026-06-23T00:47:45.146886"
-  },
-  {
     "title": "Mortal Kombat II",
     "date": "2026-06-23T15:50:37.167047"
   },
@@ -270,5 +190,13 @@
   {
     "title": "The Godfather",
     "date": "2026-07-04T23:12:02.612581"
+  },
+  {
+    "title": "Damage",
+    "date": "2026-07-05T14:47:04.308754"
+  },
+  {
+    "title": "Scary Movie",
+    "date": "2026-07-05T14:47:05.291075"
   }
 ]

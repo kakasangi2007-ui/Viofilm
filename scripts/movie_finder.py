@@ -3,14 +3,14 @@
 
 """
 🎬 جوینده هوشمند فیلم با TMDB API
-هر روز ۲ فیلم متفاوت و غیرتکراری - تاریخچه نامحدود - ضمانت ۱۰۰٪
+هر روز ۲ فیلم متفاوت و غیرتکراری - دریافت از چندین صفحه - تاریخچه نامحدود
 """
 
 import requests
 import random
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 from deep_translator import GoogleTranslator
 
@@ -19,7 +19,7 @@ from deep_translator import GoogleTranslator
 # ==================================================
 
 DATA_DIR = Path('data')
-HISTORY_FILE = DATA_DIR / 'movie_history.json'  # تاریخچه نامحدود - هیچوقت پاک نمیشه
+HISTORY_FILE = DATA_DIR / 'movie_history.json'
 
 TMDB_API_KEY = "b720e1c8103f7eb7da831c5268ea5cb0"
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
@@ -48,7 +48,7 @@ def translate_to_fa(text, max_length=400):
         return text
 
 # ==================================================
-# 🎬 دریافت فیلم‌ها از TMDB
+# 🎬 دریافت فیلم‌ها از TMDB (چندین صفحه)
 # ==================================================
 
 def fetch_tmdb(endpoint, params=None):
@@ -66,65 +66,104 @@ def fetch_tmdb(endpoint, params=None):
         print(f"   ❌ خطا در TMDB: {e}")
         return None
 
-def get_popular_movies(limit=60):
-    """فیلم‌های محبوب روز"""
-    print("   📡 فیلم‌های محبوب TMDB...")
-    data = fetch_tmdb('movie/popular', {'language': 'en-US'})
+def get_popular_movies(pages=10):
+    """دریافت فیلم‌های محبوب از چندین صفحه"""
+    print(f"   📡 دریافت فیلم‌های محبوب از {pages} صفحه...")
+    all_movies = []
     
-    movies = []
-    if data and 'results' in data:
-        for item in data['results'][:limit]:
-            movies.append({
-                'id': item['id'],
-                'title': item['title'],
-                'rating': round(item['vote_average'], 1),
-                'year': item['release_date'][:4] if item['release_date'] else 'نامشخص',
-                'source': 'TMDB محبوب'
-            })
-    print(f"   ✅ {len(movies)} فیلم")
-    return movies
+    for page in range(1, pages + 1):
+        data = fetch_tmdb('movie/popular', {
+            'language': 'en-US',
+            'page': page
+        })
+        if data and 'results' in data:
+            for item in data['results']:
+                all_movies.append({
+                    'id': item['id'],
+                    'title': item['title'],
+                    'rating': round(item['vote_average'], 1),
+                    'year': item['release_date'][:4] if item['release_date'] else 'نامشخص',
+                    'source': 'TMDB محبوب'
+                })
+    
+    print(f"   ✅ {len(all_movies)} فیلم محبوب دریافت شد")
+    return all_movies
 
-def get_top_rated_movies(limit=60):
-    """فیلم‌های برتر تاریخ"""
-    print("   📡 فیلم‌های برتر TMDB...")
-    data = fetch_tmdb('movie/top_rated', {'language': 'en-US'})
+def get_top_rated_movies(pages=10):
+    """دریافت فیلم‌های برتر از چندین صفحه"""
+    print(f"   📡 دریافت فیلم‌های برتر از {pages} صفحه...")
+    all_movies = []
     
-    movies = []
-    if data and 'results' in data:
-        for item in data['results'][:limit]:
-            movies.append({
-                'id': item['id'],
-                'title': item['title'],
-                'rating': round(item['vote_average'], 1),
-                'year': item['release_date'][:4] if item['release_date'] else 'نامشخص',
-                'source': 'TMDB برتر'
-            })
-    print(f"   ✅ {len(movies)} فیلم")
-    return movies
+    for page in range(1, pages + 1):
+        data = fetch_tmdb('movie/top_rated', {
+            'language': 'en-US',
+            'page': page
+        })
+        if data and 'results' in data:
+            for item in data['results']:
+                all_movies.append({
+                    'id': item['id'],
+                    'title': item['title'],
+                    'rating': round(item['vote_average'], 1),
+                    'year': item['release_date'][:4] if item['release_date'] else 'نامشخص',
+                    'source': 'TMDB برتر'
+                })
+    
+    print(f"   ✅ {len(all_movies)} فیلم برتر دریافت شد")
+    return all_movies
 
-def get_upcoming_movies(limit=40):
-    """فیلم‌های در حال اکران یا به‌زودی"""
-    print("   📡 فیلم‌های جدید TMDB...")
-    data = fetch_tmdb('movie/upcoming', {'language': 'en-US'})
+def get_upcoming_movies(pages=8):
+    """دریافت فیلم‌های در حال اکران از چندین صفحه"""
+    print(f"   📡 دریافت فیلم‌های جدید از {pages} صفحه...")
+    all_movies = []
     
-    movies = []
-    if data and 'results' in data:
-        for item in data['results'][:limit]:
-            movies.append({
-                'id': item['id'],
-                'title': item['title'],
-                'rating': round(item['vote_average'], 1) if item['vote_average'] else 'جدید',
-                'year': item['release_date'][:4] if item['release_date'] else 'به‌زودی',
-                'source': 'TMDB جدید'
-            })
-    print(f"   ✅ {len(movies)} فیلم")
-    return movies
+    for page in range(1, pages + 1):
+        data = fetch_tmdb('movie/upcoming', {
+            'language': 'en-US',
+            'page': page
+        })
+        if data and 'results' in data:
+            for item in data['results']:
+                all_movies.append({
+                    'id': item['id'],
+                    'title': item['title'],
+                    'rating': round(item['vote_average'], 1) if item['vote_average'] else 'جدید',
+                    'year': item['release_date'][:4] if item['release_date'] else 'به‌زودی',
+                    'source': 'TMDB جدید'
+                })
+    
+    print(f"   ✅ {len(all_movies)} فیلم جدید دریافت شد")
+    return all_movies
+
+def get_now_playing_movies(pages=5):
+    """دریافت فیلم‌های در حال اکران از چندین صفحه"""
+    print(f"   📡 دریافت فیلم‌های در حال اکران از {pages} صفحه...")
+    all_movies = []
+    
+    for page in range(1, pages + 1):
+        data = fetch_tmdb('movie/now_playing', {
+            'language': 'en-US',
+            'page': page
+        })
+        if data and 'results' in data:
+            for item in data['results']:
+                all_movies.append({
+                    'id': item['id'],
+                    'title': item['title'],
+                    'rating': round(item['vote_average'], 1),
+                    'year': item['release_date'][:4] if item['release_date'] else 'نامشخص',
+                    'source': 'TMDB در حال اکران'
+                })
+    
+    print(f"   ✅ {len(all_movies)} فیلم در حال اکران دریافت شد")
+    return all_movies
 
 def get_movie_details(movie_id):
     """دریافت اطلاعات کامل یک فیلم با ID"""
-    print("   🔍 جزئیات فیلم...")
-    
-    data = fetch_tmdb(f'movie/{movie_id}', {'language': 'en-US', 'append_to_response': 'credits'})
+    data = fetch_tmdb(f'movie/{movie_id}', {
+        'language': 'en-US',
+        'append_to_response': 'credits'
+    })
     
     if not data:
         return {}
@@ -156,7 +195,8 @@ def get_movie_details(movie_id):
         'Thriller': 'هیجانی', 'Mystery': 'معمایی', 'Animation': 'انیمیشن',
         'Crime': 'جنایی', 'Adventure': 'ماجراجویی', 'Fantasy': 'فانتزی',
         'War': 'جنگی', 'History': 'تاریخی', 'Documentary': 'مستند',
-        'Family': 'خانوادگی', 'Music': 'موسیقی', 'Western': 'وسترن'
+        'Family': 'خانوادگی', 'Music': 'موسیقی', 'Western': 'وسترن',
+        'TV Movie': 'فیلم تلویزیونی', 'Romance': 'عاشقانه'
     }
     genres = []
     for genre in data.get('genres', []):
@@ -182,11 +222,11 @@ def get_movie_details(movie_id):
     return details
 
 # ==================================================
-# 📜 مدیریت تاریخچه نامحدود (هیچوقت پاک نمیشه)
+# 📜 مدیریت تاریخچه نامحدود
 # ==================================================
 
 def load_history():
-    """بارگذاری تاریخچه فیلم‌های ارسال شده - نامحدود"""
+    """بارگذاری تاریخچه فیلم‌های ارسال شده"""
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
@@ -196,35 +236,28 @@ def load_history():
     return []
 
 def save_history(history):
-    """ذخیره تاریخچه - بدون محدودیت، هیچوقت پاک نمیشه"""
+    """ذخیره تاریخچه - بدون محدودیت"""
     os.makedirs(DATA_DIR, exist_ok=True)
     
     with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 def is_duplicate(title, history):
-    """بررسی تکراری بودن فیلم در تاریخچه (بر اساس عنوان و ID)"""
+    """بررسی تکراری بودن فیلم در تاریخچه"""
     title_clean = title.lower().strip()
     
     for h in history:
-        # بررسی بر اساس عنوان
         if h['title'].lower().strip() == title_clean:
             return True
         
-        # بررسی بر اساس TMDB ID (اگر وجود داشته باشد)
+        # بررسی با TMDB ID برای دقت بیشتر
         if 'tmdb_id' in h and 'tmdb_id' in history[0]:
-            # این بخش فقط برای اطمینان بیشتر
             pass
     
     return False
 
-def get_history_count():
-    """دریافت تعداد فیلم‌های ارسال شده تا الان"""
-    history = load_history()
-    return len(history)
-
 # ==================================================
-# 🎯 دریافت فیلم‌های امروز (ضمانت عدم تکرار ۱۰۰٪)
+# 🎯 دریافت فیلم‌های امروز (نسخه نهایی)
 # ==================================================
 
 def get_todays_movies(count=2):
@@ -236,11 +269,12 @@ def get_todays_movies(count=2):
     
     print(f"   📊 تعداد فیلم‌های ارسال شده تا امروز: {history_count}")
     
-    # جمع‌آوری فیلم‌ها از همه منابع با تعداد بالا
+    # جمع‌آوری فیلم‌ها از همه منابع با چندین صفحه
     all_movies = []
-    all_movies.extend(get_popular_movies(60))   # ۶۰ فیلم محبوب
-    all_movies.extend(get_top_rated_movies(60)) # ۶۰ فیلم برتر
-    all_movies.extend(get_upcoming_movies(40))  # ۴۰ فیلم جدید
+    all_movies.extend(get_popular_movies(pages=10))      # ۱۰ صفحه = ~۲۰۰ فیلم
+    all_movies.extend(get_top_rated_movies(pages=10))    # ۱۰ صفحه = ~۲۰۰ فیلم
+    all_movies.extend(get_upcoming_movies(pages=8))      # ۸ صفحه = ~۱۶۰ فیلم
+    all_movies.extend(get_now_playing_movies(pages=5))   # ۵ صفحه = ~۱۰۰ فیلم
     
     # حذف تکراری‌ها بر اساس ID
     unique_movies = {}
@@ -248,13 +282,11 @@ def get_todays_movies(count=2):
         movie_id = movie.get('id')
         if movie_id and movie_id not in unique_movies:
             unique_movies[movie_id] = movie
-        elif not movie_id and movie['title'] not in unique_movies:
-            unique_movies[movie['title']] = movie
     
     all_movies = list(unique_movies.values())
     print(f"   📋 {len(all_movies)} فیلم منحصربه‌فرد پیدا شد")
     
-    # فیلتر کردن فیلم‌های تکراری (با استفاده از تاریخچه کامل)
+    # فیلتر کردن فیلم‌های تکراری
     new_movies = []
     duplicate_count = 0
     
@@ -266,55 +298,19 @@ def get_todays_movies(count=2):
     
     print(f"   🆕 {len(new_movies)} فیلم جدید | {duplicate_count} فیلم تکراری حذف شد")
     
-    # اگر فیلم جدید کافی نیست، از تاریخچه قدیمی‌تر استفاده نکن (چون نامحدوده)
+    # اگر فیلم جدید کافی نیست، از بین همه فیلم‌ها انتخاب کن
     if len(new_movies) < count:
-        print(f"   ⚠️ فقط {len(new_movies)} فیلم جدید در این دسته‌بندی‌ها!")
-        print(f"   💡 پیشنهاد: فیلم‌های بیشتری از TMDB دریافت می‌شود...")
+        print(f"   ⚠️ فیلم جدید کافی نیست! انتخاب از بین همه فیلم‌ها...")
         
-        # تلاش با دریافت فیلم‌های بیشتر از صفحات مختلف
-        all_movies_extra = []
-        all_movies_extra.extend(get_popular_movies(100))   # افزایش به ۱۰۰
-        all_movies_extra.extend(get_top_rated_movies(100)) # افزایش به ۱۰۰
-        all_movies_extra.extend(get_upcoming_movies(60))   # افزایش به ۶۰
-        
-        # حذف تکراری‌ها
-        unique_movies_extra = {}
-        for movie in all_movies_extra:
-            movie_id = movie.get('id')
-            if movie_id and movie_id not in unique_movies_extra:
-                unique_movies_extra[movie_id] = movie
-        
-        all_movies_extra = list(unique_movies_extra.values())
-        
-        # فیلتر مجدد
-        new_movies_extra = []
-        for movie in all_movies_extra:
-            if not is_duplicate(movie['title'], history):
-                new_movies_extra.append(movie)
-        
-        print(f"   🆕 با دریافت بیشتر: {len(new_movies_extra)} فیلم جدید پیدا شد")
-        
-        if len(new_movies_extra) >= count:
-            new_movies = new_movies_extra
-        else:
-            # اگر باز هم کم بود، از تاریخچه استفاده نکن (فقط این یک بار)
-            print(f"   ⚠️ هنوز فیلم جدید کافی نیست! انتخاب از بین همه فیلم‌ها...")
-            new_movies = all_movies_extra
-    
-    # اگر باز هم فیلم جدید کافی نبود (واقعاً همه فیلم‌ها ارسال شده‌اند)
-    if len(new_movies) < count:
-        print(f"   🎉 تبریک! همه فیلم‌های موجود در TMDB رو ارسال کردی!")
-        print(f"   🔄 صبر کن تا فیلم‌های جدید به TMDB اضافه بشن...")
-        
-        # در این حالت، از بین فیلم‌های موجود انتخاب کن (اما با اخطار)
         if len(all_movies) >= count:
-            print(f"   ⚠️ هشدار: فیلم تکراری ارسال می‌شود (چون همه فیلم‌ها قبلاً فرستاده شده‌اند)")
+            # انتخاب از بین همه فیلم‌ها (با اخطار)
+            print(f"   ⚠️ هشدار: ممکنه فیلم تکراری ارسال بشه")
             selected = random.sample(all_movies, count)
         else:
             print(f"   ❌ هیچ فیلمی برای ارسال وجود ندارد!")
             return []
     else:
-        # انتخاب تصادفی فیلم‌ها
+        # انتخاب تصادفی از فیلم‌های جدید
         selected = random.sample(new_movies, min(count, len(new_movies)))
     
     # دریافت جزئیات کامل
@@ -328,19 +324,19 @@ def get_todays_movies(count=2):
         full_movie = {**movie, **details}
         full_movies.append(full_movie)
         
-        # ثبت در تاریخچه (نامحدود - هیچوقت پاک نمیشه)
+        # ثبت در تاریخچه
         history.append({
             'title': full_movie['title'],
             'date': today_date,
-            'tmdb_id': movie['id'],  # ذخیره ID برای تشخیص دقیق‌تر
+            'tmdb_id': movie['id'],
             'year': movie['year'],
             'rating': movie['rating']
         })
     
-    # ذخیره تاریخچه (بدون حذف هیچ چیزی)
+    # ذخیره تاریخچه
     save_history(history)
     
-    print(f"\n   ✅ {len(full_movies)} فیلم نهایی (غیرتکراری)")
+    print(f"\n   ✅ {len(full_movies)} فیلم نهایی انتخاب شد")
     print(f"   📊 مجموع فیلم‌های ارسال شده: {len(history)}")
     return full_movies
 
@@ -358,15 +354,15 @@ def get_movie_stats():
 
 if __name__ == "__main__":
     print("🎬 شروع جستجوی فیلم‌های امروز...\n")
+    print("=" * 65)
     
     movies = get_todays_movies(2)
     
-    # نمایش آمار
     stats = get_movie_stats()
     print(f"\n📊 آمار کل: {stats['total']} فیلم ارسال شده")
     
     if movies:
-        print("\n" + "="*50)
+        print("\n" + "=" * 65)
         for i, movie in enumerate(movies, 1):
             print(f"\n{i}. 🎬 {movie['title']} ({movie['year']})")
             print(f"   ⭐ امتیاز: {movie['rating']}")
@@ -374,6 +370,6 @@ if __name__ == "__main__":
             print(f"   🎬 کارگردان: {movie.get('director', 'نامشخص')}")
             print(f"   👥 بازیگران: {', '.join(movie.get('cast', [])[:3])}")
             print(f"   📝 خلاصه: {movie.get('summary_fa', 'ندارد')[:150]}...")
-        print("\n" + "="*50)
+        print("\n" + "=" * 65)
     else:
         print("\n❌ فیلمی برای ارسال پیدا نشد")

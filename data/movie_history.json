@@ -268,5 +268,19 @@
     "tmdb_id": 218,
     "year": "1984",
     "rating": 7.7
+  },
+  {
+    "title": "The Departed",
+    "date": "2026-07-09T00:04:04.786708",
+    "tmdb_id": 1422,
+    "year": "2006",
+    "rating": 8.2
+  },
+  {
+    "title": "Django Unchained",
+    "date": "2026-07-09T00:04:04.786708",
+    "tmdb_id": 68718,
+    "year": "2012",
+    "rating": 8.2
   }
 ]

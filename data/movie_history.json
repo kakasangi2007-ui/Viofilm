@@ -254,5 +254,19 @@
   {
     "title": "Minions & Monsters",
     "date": "2026-07-08T23:29:41.543351"
+  },
+  {
+    "title": "Beast",
+    "date": "2026-07-08T23:56:11.227698",
+    "tmdb_id": 1292415,
+    "year": "2026",
+    "rating": 6.3
+  },
+  {
+    "title": "The Terminator",
+    "date": "2026-07-08T23:56:11.227698",
+    "tmdb_id": 218,
+    "year": "1984",
+    "rating": 7.7
   }
 ]

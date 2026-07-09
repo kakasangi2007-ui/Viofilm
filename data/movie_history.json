@@ -282,5 +282,19 @@
     "tmdb_id": 68718,
     "year": "2012",
     "rating": 8.2
+  },
+  {
+    "title": "Soul",
+    "date": "2026-07-09T15:49:20.178344",
+    "tmdb_id": 508442,
+    "year": "2020",
+    "rating": 8.1
+  },
+  {
+    "title": "A Private Life",
+    "date": "2026-07-09T15:49:20.178344",
+    "tmdb_id": 1290432,
+    "year": "2025",
+    "rating": 5.6
   }
 ]

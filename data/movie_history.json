@@ -352,5 +352,19 @@
     "tmdb_id": 1088548,
     "year": "2026",
     "rating": 6.5
+  },
+  {
+    "title": "Counterattack",
+    "date": "2026-07-11T23:07:26.799666",
+    "tmdb_id": 1356039,
+    "year": "2025",
+    "rating": 8.3
+  },
+  {
+    "title": "Gabriel's Inferno: Part III",
+    "date": "2026-07-11T23:07:26.799666",
+    "tmdb_id": 761053,
+    "year": "2020",
+    "rating": 8.3
   }
 ]

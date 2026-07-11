@@ -338,5 +338,19 @@
     "tmdb_id": 599,
     "year": "1950",
     "rating": 8.3
+  },
+  {
+    "title": "Clouds",
+    "date": "2026-07-11T14:11:20.620026",
+    "tmdb_id": 630566,
+    "year": "2020",
+    "rating": 8.2
+  },
+  {
+    "title": "Bitter Christmas",
+    "date": "2026-07-11T14:11:20.620026",
+    "tmdb_id": 1088548,
+    "year": "2026",
+    "rating": 6.5
   }
 ]

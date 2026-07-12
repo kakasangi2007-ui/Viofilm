@@ -380,5 +380,19 @@
     "tmdb_id": 1241982,
     "year": "2024",
     "rating": 7.0
+  },
+  {
+    "title": "Vengeance",
+    "date": "2026-07-12T23:05:51.569928",
+    "tmdb_id": 1613798,
+    "year": "2026",
+    "rating": 7.5
+  },
+  {
+    "title": "Addicted",
+    "date": "2026-07-12T23:05:51.569928",
+    "tmdb_id": 235271,
+    "year": "2014",
+    "rating": 5.9
   }
 ]

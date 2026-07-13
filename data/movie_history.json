@@ -408,5 +408,19 @@
     "tmdb_id": 29259,
     "year": "1960",
     "rating": 8.2
+  },
+  {
+    "title": "Silenced",
+    "date": "2026-07-13T23:25:13.734833",
+    "tmdb_id": 81481,
+    "year": "2011",
+    "rating": 8.2
+  },
+  {
+    "title": "Baby Face",
+    "date": "2026-07-13T23:25:13.734833",
+    "tmdb_id": 27449,
+    "year": "1933",
+    "rating": 7.2
   }
 ]

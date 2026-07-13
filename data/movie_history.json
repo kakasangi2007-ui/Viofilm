@@ -394,5 +394,19 @@
     "tmdb_id": 235271,
     "year": "2014",
     "rating": 5.9
+  },
+  {
+    "title": "Idhayam Murali",
+    "date": "2026-07-13T15:50:02.714539",
+    "tmdb_id": 1432631,
+    "year": "2026",
+    "rating": 0.0
+  },
+  {
+    "title": "Le Trou",
+    "date": "2026-07-13T15:50:02.714539",
+    "tmdb_id": 29259,
+    "year": "1960",
+    "rating": 8.2
   }
 ]

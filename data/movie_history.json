@@ -422,5 +422,19 @@
     "tmdb_id": 27449,
     "year": "1933",
     "rating": 7.2
+  },
+  {
+    "title": "War Machine",
+    "date": "2026-07-14T14:37:19.816950",
+    "tmdb_id": 1265609,
+    "year": "2026",
+    "rating": 7.4
+  },
+  {
+    "title": "Marsupilami",
+    "date": "2026-07-14T14:37:19.816950",
+    "tmdb_id": 1145899,
+    "year": "2026",
+    "rating": 6.3
   }
 ]

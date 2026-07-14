@@ -436,5 +436,19 @@
     "tmdb_id": 1145899,
     "year": "2026",
     "rating": 6.3
+  },
+  {
+    "title": "Soulm8te",
+    "date": "2026-07-14T23:19:05.893993",
+    "tmdb_id": 1307118,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "date": "2026-07-14T23:19:05.893993",
+    "tmdb_id": 1087192,
+    "year": "2025",
+    "rating": 7.9
   }
 ]

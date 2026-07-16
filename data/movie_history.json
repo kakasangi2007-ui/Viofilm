@@ -492,5 +492,19 @@
     "tmdb_id": 1103621,
     "year": "2024",
     "rating": 8.1
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "date": "2026-07-16T23:07:19.506701",
+    "tmdb_id": 1585,
+    "year": "1946",
+    "rating": 8.3
+  },
+  {
+    "title": "Princess Mononoke",
+    "date": "2026-07-16T23:07:19.506701",
+    "tmdb_id": 128,
+    "year": "1997",
+    "rating": 8.3
   }
 ]

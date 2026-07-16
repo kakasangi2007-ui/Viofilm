@@ -478,5 +478,19 @@
     "tmdb_id": 1433367,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "The Long Walk",
+    "date": "2026-07-16T14:47:08.048116",
+    "tmdb_id": 604079,
+    "year": "2025",
+    "rating": 6.9
+  },
+  {
+    "title": "How to Make Millions Before Grandma Dies",
+    "date": "2026-07-16T14:47:08.048116",
+    "tmdb_id": 1103621,
+    "year": "2024",
+    "rating": 8.1
   }
 ]

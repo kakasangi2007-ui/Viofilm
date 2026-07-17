@@ -520,5 +520,19 @@
     "tmdb_id": 620249,
     "year": "2019",
     "rating": 8.4
+  },
+  {
+    "title": "Ghost in the Shell",
+    "date": "2026-07-17T23:07:34.026475",
+    "tmdb_id": 9323,
+    "year": "1995",
+    "rating": 7.9
+  },
+  {
+    "title": "The Seventh Seal",
+    "date": "2026-07-17T23:07:34.026475",
+    "tmdb_id": 490,
+    "year": "1957",
+    "rating": 8.1
   }
 ]

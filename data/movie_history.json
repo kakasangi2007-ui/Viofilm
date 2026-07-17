@@ -506,5 +506,19 @@
     "tmdb_id": 128,
     "year": "1997",
     "rating": 8.3
+  },
+  {
+    "title": "Out of the Clear Blue Sky",
+    "date": "2026-07-17T14:35:23.034578",
+    "tmdb_id": 654299,
+    "year": "2019",
+    "rating": 8.3
+  },
+  {
+    "title": "The Legend of Hei",
+    "date": "2026-07-17T14:35:23.034578",
+    "tmdb_id": 620249,
+    "year": "2019",
+    "rating": 8.4
   }
 ]

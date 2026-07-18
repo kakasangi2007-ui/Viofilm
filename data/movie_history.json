@@ -534,5 +534,19 @@
     "tmdb_id": 490,
     "year": "1957",
     "rating": 8.1
+  },
+  {
+    "title": "My Mom Is a Character 3",
+    "date": "2026-07-18T14:16:12.118313",
+    "tmdb_id": 620683,
+    "year": "2019",
+    "rating": 8.2
+  },
+  {
+    "title": "Se7en",
+    "date": "2026-07-18T14:16:12.118313",
+    "tmdb_id": 807,
+    "year": "1995",
+    "rating": 8.4
   }
 ]

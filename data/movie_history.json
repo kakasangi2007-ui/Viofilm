@@ -576,5 +576,19 @@
     "tmdb_id": 12153,
     "year": "2004",
     "rating": 7.0
+  },
+  {
+    "title": "Paths of Glory",
+    "date": "2026-07-19T23:07:32.529813",
+    "tmdb_id": 975,
+    "year": "1957",
+    "rating": 8.3
+  },
+  {
+    "title": "Saving Private Ryan",
+    "date": "2026-07-19T23:07:32.529813",
+    "tmdb_id": 857,
+    "year": "1998",
+    "rating": 8.2
   }
 ]

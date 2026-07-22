@@ -646,5 +646,19 @@
     "tmdb_id": 603,
     "year": "1999",
     "rating": 8.3
+  },
+  {
+    "title": "Forbidden Fruits",
+    "date": "2026-07-22T14:55:15.150798",
+    "tmdb_id": 1450527,
+    "year": "2026",
+    "rating": 5.9
+  },
+  {
+    "title": "American History X",
+    "date": "2026-07-22T14:55:15.150798",
+    "tmdb_id": 73,
+    "year": "1998",
+    "rating": 8.3
   }
 ]

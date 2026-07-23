@@ -688,5 +688,19 @@
     "tmdb_id": 1257009,
     "year": "2025",
     "rating": 6.6
+  },
+  {
+    "title": "The Wrecking Crew",
+    "date": "2026-07-23T23:22:26.098139",
+    "tmdb_id": 1168190,
+    "year": "2026",
+    "rating": 7.1
+  },
+  {
+    "title": "The Art of Racing in the Rain",
+    "date": "2026-07-23T23:22:26.098139",
+    "tmdb_id": 522924,
+    "year": "2019",
+    "rating": 8.2
   }
 ]

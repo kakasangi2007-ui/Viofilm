@@ -716,5 +716,19 @@
     "tmdb_id": 1702949,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Jackass: Best and Last",
+    "date": "2026-07-24T23:22:04.248134",
+    "tmdb_id": 1612018,
+    "year": "2026",
+    "rating": 6.7
+  },
+  {
+    "title": "Shape of My Heart",
+    "date": "2026-07-24T23:22:04.248134",
+    "tmdb_id": 1285366,
+    "year": "2024",
+    "rating": 6.2
   }
 ]

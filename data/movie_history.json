@@ -730,5 +730,19 @@
     "tmdb_id": 1285366,
     "year": "2024",
     "rating": 6.2
+  },
+  {
+    "title": "Heartstopper Forever",
+    "date": "2026-07-25T14:21:53.650898",
+    "tmdb_id": 1468683,
+    "year": "2026",
+    "rating": 7.1
+  },
+  {
+    "title": "Fast X",
+    "date": "2026-07-25T14:21:53.650898",
+    "tmdb_id": 385687,
+    "year": "2023",
+    "rating": 7.0
   }
 ]

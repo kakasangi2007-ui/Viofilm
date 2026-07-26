@@ -772,5 +772,19 @@
     "tmdb_id": 1284041,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "date": "2026-07-26T23:10:53.983778",
+    "tmdb_id": 315162,
+    "year": "2022",
+    "rating": 8.2
+  },
+  {
+    "title": "Hotarubi no Mori e",
+    "date": "2026-07-26T23:10:53.983778",
+    "tmdb_id": 92321,
+    "year": "2011",
+    "rating": 8.3
   }
 ]

@@ -800,5 +800,19 @@
     "tmdb_id": 329505,
     "year": "1984",
     "rating": 7.0
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "date": "2026-07-27T23:30:49.877205",
+    "tmdb_id": 76600,
+    "year": "2022",
+    "rating": 7.6
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "date": "2026-07-27T23:30:49.877205",
+    "tmdb_id": 120,
+    "year": "2001",
+    "rating": 8.4
   }
 ]

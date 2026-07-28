@@ -814,5 +814,19 @@
     "tmdb_id": 120,
     "year": "2001",
     "rating": 8.4
+  },
+  {
+    "title": "The Invite",
+    "date": "2026-07-28T15:05:22.679770",
+    "tmdb_id": 950028,
+    "year": "2026",
+    "rating": 7.8
+  },
+  {
+    "title": "Descendants: Wicked Wonderland",
+    "date": "2026-07-28T15:05:22.679770",
+    "tmdb_id": 1318621,
+    "year": "2026",
+    "rating": 7.6
   }
 ]

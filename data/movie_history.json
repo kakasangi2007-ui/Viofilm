@@ -828,5 +828,19 @@
     "tmdb_id": 1318621,
     "year": "2026",
     "rating": 7.6
+  },
+  {
+    "title": "Léon: The Professional",
+    "date": "2026-07-28T23:27:35.826232",
+    "tmdb_id": 101,
+    "year": "1994",
+    "rating": 8.3
+  },
+  {
+    "title": "Triangle",
+    "date": "2026-07-28T23:27:35.826232",
+    "tmdb_id": 26466,
+    "year": "2009",
+    "rating": 6.9
   }
 ]

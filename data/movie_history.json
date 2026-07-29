@@ -842,5 +842,19 @@
     "tmdb_id": 26466,
     "year": "2009",
     "rating": 6.9
+  },
+  {
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "date": "2026-07-29T15:09:46.825054",
+    "tmdb_id": 1218925,
+    "year": "2025",
+    "rating": 8.5
+  },
+  {
+    "title": "Il Sorpasso",
+    "date": "2026-07-29T15:09:46.825054",
+    "tmdb_id": 24188,
+    "year": "1962",
+    "rating": 8.2
   }
 ]

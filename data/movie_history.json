@@ -884,5 +884,19 @@
     "tmdb_id": 1124,
     "year": "2006",
     "rating": 8.2
+  },
+  {
+    "title": "Finding Connection",
+    "date": "2026-07-30T23:27:51.342116",
+    "tmdb_id": 1624471,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "date": "2026-07-30T23:27:51.342116",
+    "tmdb_id": 16869,
+    "year": "2009",
+    "rating": 8.2
   }
 ]

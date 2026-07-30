@@ -870,5 +870,19 @@
     "tmdb_id": 46738,
     "year": "2010",
     "rating": 8.1
+  },
+  {
+    "title": "The Fence",
+    "date": "2026-07-30T14:58:56.267176",
+    "tmdb_id": 1254800,
+    "year": "2026",
+    "rating": 5.5
+  },
+  {
+    "title": "The Prestige",
+    "date": "2026-07-30T14:58:56.267176",
+    "tmdb_id": 1124,
+    "year": "2006",
+    "rating": 8.2
   }
 ]

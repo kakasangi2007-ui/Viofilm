@@ -912,5 +912,19 @@
     "tmdb_id": 671,
     "year": "2001",
     "rating": 7.9
+  },
+  {
+    "title": "The Dog Stars",
+    "date": "2026-07-31T23:28:42.138787",
+    "tmdb_id": 1384216,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "40 Dates and 40 Nights",
+    "date": "2026-07-31T23:28:42.138787",
+    "tmdb_id": 1431804,
+    "year": "2026",
+    "rating": 6.8
   }
 ]

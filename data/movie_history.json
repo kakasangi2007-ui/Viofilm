@@ -926,5 +926,19 @@
     "tmdb_id": 1431804,
     "year": "2026",
     "rating": 6.8
+  },
+  {
+    "title": "Arco",
+    "date": "2026-08-01T14:27:48.631938",
+    "tmdb_id": 804370,
+    "year": "2025",
+    "rating": 7.6
+  },
+  {
+    "title": "Accidental Partners",
+    "date": "2026-08-01T14:27:48.631938",
+    "tmdb_id": 1632181,
+    "year": "2026",
+    "rating": 9.0
   }
 ]

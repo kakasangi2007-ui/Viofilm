@@ -954,5 +954,19 @@
     "tmdb_id": 27205,
     "year": "2010",
     "rating": 8.4
+  },
+  {
+    "title": "Seven Snipers",
+    "date": "2026-08-02T14:28:54.304207",
+    "tmdb_id": 1288341,
+    "year": "2026",
+    "rating": 6.1
+  },
+  {
+    "title": "Panda Plan: The Magical Tribe",
+    "date": "2026-08-02T14:28:54.304207",
+    "tmdb_id": 1421552,
+    "year": "2026",
+    "rating": 6.4
   }
 ]

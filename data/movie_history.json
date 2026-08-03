@@ -996,5 +996,19 @@
     "tmdb_id": 724089,
     "year": "2020",
     "rating": 8.3
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-03T23:35:20.280801",
+    "tmdb_id": 675871,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "The Dink",
+    "date": "2026-08-03T23:35:20.280801",
+    "tmdb_id": 1361774,
+    "year": "2026",
+    "rating": 6.2
   }
 ]

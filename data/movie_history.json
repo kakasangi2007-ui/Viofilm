@@ -982,5 +982,19 @@
     "tmdb_id": 558,
     "year": "2004",
     "rating": 7.3
+  },
+  {
+    "title": "“The Shorts” by Aldo, Giovanni and Giacomo",
+    "date": "2026-08-03T16:12:21.155589",
+    "tmdb_id": 38288,
+    "year": "1996",
+    "rating": 8.1
+  },
+  {
+    "title": "Gabriel's Inferno: Part II",
+    "date": "2026-08-03T16:12:21.155589",
+    "tmdb_id": 724089,
+    "year": "2020",
+    "rating": 8.3
   }
 ]

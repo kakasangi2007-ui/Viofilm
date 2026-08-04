@@ -1010,5 +1010,19 @@
     "tmdb_id": 1361774,
     "year": "2026",
     "rating": 6.2
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "date": "2026-08-04T15:09:33.008455",
+    "tmdb_id": 121,
+    "year": "2002",
+    "rating": 8.4
+  },
+  {
+    "title": "Aks Seir",
+    "date": "2026-08-04T15:09:33.008455",
+    "tmdb_id": 1728604,
+    "year": "2026",
+    "rating": "جدید"
   }
 ]

@@ -1052,5 +1052,19 @@
     "tmdb_id": 1184941,
     "year": "2026",
     "rating": 6.7
+  },
+  {
+    "title": "Strange River",
+    "date": "2026-08-05T23:30:36.624310",
+    "tmdb_id": 1025389,
+    "year": "2025",
+    "rating": 6.5
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "date": "2026-08-05T23:30:36.624310",
+    "tmdb_id": 803796,
+    "year": "2025",
+    "rating": 8.0
   }
 ]

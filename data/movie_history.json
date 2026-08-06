@@ -1066,5 +1066,19 @@
     "tmdb_id": 803796,
     "year": "2025",
     "rating": 8.0
+  },
+  {
+    "title": "Coraline",
+    "date": "2026-08-06T15:10:09.940877",
+    "tmdb_id": 14836,
+    "year": "2009",
+    "rating": 7.9
+  },
+  {
+    "title": "The Odyssey",
+    "date": "2026-08-06T15:10:09.940877",
+    "tmdb_id": 1698863,
+    "year": "2026",
+    "rating": 5.8
   }
 ]

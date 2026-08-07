@@ -1108,5 +1108,19 @@
     "tmdb_id": 1381151,
     "year": "2026",
     "rating": 6.7
+  },
+  {
+    "title": "Rascal Does Not Dream of a Dreaming Girl",
+    "date": "2026-08-07T22:55:42.310494",
+    "tmdb_id": 572154,
+    "year": "2019",
+    "rating": 8.2
+  },
+  {
+    "title": "Passenger",
+    "date": "2026-08-07T22:55:42.310494",
+    "tmdb_id": 1368314,
+    "year": "2026",
+    "rating": 7.3
   }
 ]

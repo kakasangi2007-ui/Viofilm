@@ -1136,5 +1136,19 @@
     "tmdb_id": 1502135,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Fjord",
+    "date": "2026-08-08T22:35:34.628584",
+    "tmdb_id": 1401459,
+    "year": "2026",
+    "rating": 7.8
+  },
+  {
+    "title": "Pinocchio: Unstrung",
+    "date": "2026-08-08T22:35:34.628584",
+    "tmdb_id": 1232569,
+    "year": "2026",
+    "rating": 8.3
   }
 ]

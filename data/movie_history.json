@@ -1164,5 +1164,19 @@
     "tmdb_id": 110420,
     "year": "2012",
     "rating": 8.2
+  },
+  {
+    "title": "The Hanged Woman",
+    "date": "2026-08-09T22:38:27.921519",
+    "tmdb_id": 1631506,
+    "year": "2026",
+    "rating": 5.6
+  },
+  {
+    "title": "The Forge",
+    "date": "2026-08-09T22:38:27.921519",
+    "tmdb_id": 1186532,
+    "year": "2024",
+    "rating": 8.2
   }
 ]

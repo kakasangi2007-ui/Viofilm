@@ -1192,5 +1192,19 @@
     "tmdb_id": 1317288,
     "year": "2025",
     "rating": 7.4
+  },
+  {
+    "title": "Beast Race",
+    "date": "2026-08-10T22:56:25.871425",
+    "tmdb_id": 1263532,
+    "year": "2026",
+    "rating": 6.4
+  },
+  {
+    "title": "The Shining",
+    "date": "2026-08-10T22:56:25.871425",
+    "tmdb_id": 694,
+    "year": "1980",
+    "rating": 8.2
   }
 ]

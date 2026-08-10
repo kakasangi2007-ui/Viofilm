@@ -1178,5 +1178,19 @@
     "tmdb_id": 1186532,
     "year": "2024",
     "rating": 8.2
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "date": "2026-08-10T14:13:18.612383",
+    "tmdb_id": 102382,
+    "year": "2014",
+    "rating": 6.6
+  },
+  {
+    "title": "Marty Supreme",
+    "date": "2026-08-10T14:13:18.612383",
+    "tmdb_id": 1317288,
+    "year": "2025",
+    "rating": 7.4
   }
 ]

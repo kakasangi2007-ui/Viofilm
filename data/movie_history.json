@@ -1248,5 +1248,19 @@
     "tmdb_id": 1487861,
     "year": "2026",
     "rating": 7.4
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "date": "2026-08-12T23:02:34.622498",
+    "tmdb_id": 12444,
+    "year": "2010",
+    "rating": 7.7
+  },
+  {
+    "title": "The Great Arch",
+    "date": "2026-08-12T23:02:34.622498",
+    "tmdb_id": 1290424,
+    "year": "2025",
+    "rating": 6.9
   }
 ]

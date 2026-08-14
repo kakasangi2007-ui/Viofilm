@@ -1304,5 +1304,19 @@
     "tmdb_id": 1324241,
     "year": "2025",
     "rating": 4.5
+  },
+  {
+    "title": "Girls Like Girls",
+    "date": "2026-08-14T22:54:13.648024",
+    "tmdb_id": 1397485,
+    "year": "2026",
+    "rating": 7.1
+  },
+  {
+    "title": "The Great Dictator",
+    "date": "2026-08-14T22:54:13.648024",
+    "tmdb_id": 914,
+    "year": "1940",
+    "rating": 8.3
   }
 ]

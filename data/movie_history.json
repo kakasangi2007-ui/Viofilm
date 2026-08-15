@@ -1332,5 +1332,19 @@
     "tmdb_id": 138843,
     "year": "2013",
     "rating": 7.5
+  },
+  {
+    "title": "Don't Say Good Luck",
+    "date": "2026-08-15T22:21:59.210717",
+    "tmdb_id": 1504358,
+    "year": "2026",
+    "rating": 7.2
+  },
+  {
+    "title": "The Kid",
+    "date": "2026-08-15T22:21:59.210717",
+    "tmdb_id": 10098,
+    "year": "1921",
+    "rating": 8.1
   }
 ]

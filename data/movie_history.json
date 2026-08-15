@@ -1318,5 +1318,19 @@
     "tmdb_id": 914,
     "year": "1940",
     "rating": 8.3
+  },
+  {
+    "title": "Vishwanath & Sons",
+    "date": "2026-08-15T13:19:38.218871",
+    "tmdb_id": 1408162,
+    "year": "2026",
+    "rating": 9.3
+  },
+  {
+    "title": "The Conjuring",
+    "date": "2026-08-15T13:19:38.218871",
+    "tmdb_id": 138843,
+    "year": "2013",
+    "rating": 7.5
   }
 ]

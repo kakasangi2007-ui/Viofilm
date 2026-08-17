@@ -1374,5 +1374,19 @@
     "tmdb_id": 862,
     "year": "1995",
     "rating": 8.0
+  },
+  {
+    "title": "The Dollmaker",
+    "date": "2026-08-17T13:34:56.457911",
+    "tmdb_id": 1193950,
+    "year": "2025",
+    "rating": 0.0
+  },
+  {
+    "title": "The Handmaiden",
+    "date": "2026-08-17T13:34:56.457911",
+    "tmdb_id": 290098,
+    "year": "2016",
+    "rating": 8.2
   }
 ]

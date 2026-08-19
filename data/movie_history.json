@@ -1430,5 +1430,19 @@
     "tmdb_id": 527641,
     "year": "2019",
     "rating": 8.2
+  },
+  {
+    "title": "Superman",
+    "date": "2026-08-19T13:27:58.668007",
+    "tmdb_id": 1061474,
+    "year": "2025",
+    "rating": 7.3
+  },
+  {
+    "title": "Lucy Shimmers and the Prince of Peace",
+    "date": "2026-08-19T13:27:58.668007",
+    "tmdb_id": 770156,
+    "year": "2020",
+    "rating": 8.4
   }
 ]

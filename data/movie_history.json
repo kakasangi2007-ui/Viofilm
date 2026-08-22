@@ -1528,5 +1528,19 @@
     "tmdb_id": 9327,
     "year": "1996",
     "rating": 5.6
+  },
+  {
+    "title": "Titanic",
+    "date": "2026-08-22T22:23:33.796270",
+    "tmdb_id": 597,
+    "year": "1997",
+    "rating": 7.9
+  },
+  {
+    "title": "Spider-Man",
+    "date": "2026-08-22T22:23:33.796270",
+    "tmdb_id": 557,
+    "year": "2002",
+    "rating": 7.3
   }
 ]

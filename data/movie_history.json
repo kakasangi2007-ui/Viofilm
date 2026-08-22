@@ -1514,5 +1514,19 @@
     "tmdb_id": 18148,
     "year": "1953",
     "rating": 8.2
+  },
+  {
+    "title": "Maquia: When the Promised Flower Blooms",
+    "date": "2026-08-22T13:20:56.207072",
+    "tmdb_id": 476292,
+    "year": "2018",
+    "rating": 8.1
+  },
+  {
+    "title": "The Nutty Professor",
+    "date": "2026-08-22T13:20:56.207072",
+    "tmdb_id": 9327,
+    "year": "1996",
+    "rating": 5.6
   }
 ]

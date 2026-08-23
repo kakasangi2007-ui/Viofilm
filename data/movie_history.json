@@ -1556,5 +1556,19 @@
     "tmdb_id": 1671257,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Hoppers",
+    "date": "2026-08-23T22:23:29.460105",
+    "tmdb_id": 1327819,
+    "year": "2026",
+    "rating": 8.2
+  },
+  {
+    "title": "BTS WORLD TOUR [LOVE YOURSELF] in Seoul",
+    "date": "2026-08-23T22:23:29.460105",
+    "tmdb_id": 568300,
+    "year": "2019",
+    "rating": 8.2
   }
 ]

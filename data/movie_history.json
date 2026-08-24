@@ -1584,5 +1584,19 @@
     "tmdb_id": 568332,
     "year": "2018",
     "rating": 8.2
+  },
+  {
+    "title": "Taxi Driver",
+    "date": "2026-08-24T22:37:05.663853",
+    "tmdb_id": 103,
+    "year": "1976",
+    "rating": 8.1
+  },
+  {
+    "title": "The Uprising",
+    "date": "2026-08-24T22:37:05.663853",
+    "tmdb_id": 977942,
+    "year": "2026",
+    "rating": "جدید"
   }
 ]

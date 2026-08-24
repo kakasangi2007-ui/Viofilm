@@ -1570,5 +1570,19 @@
     "tmdb_id": 568300,
     "year": "2019",
     "rating": 8.2
+  },
+  {
+    "title": "A Minecraft Movie",
+    "date": "2026-08-24T13:40:15.709948",
+    "tmdb_id": 950387,
+    "year": "2025",
+    "rating": 6.2
+  },
+  {
+    "title": "Taylor Swift: Reputation Stadium Tour",
+    "date": "2026-08-24T13:40:15.709948",
+    "tmdb_id": 568332,
+    "year": "2018",
+    "rating": 8.2
   }
 ]

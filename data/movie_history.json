@@ -1598,5 +1598,19 @@
     "tmdb_id": 977942,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "The Truman Show",
+    "date": "2026-08-25T13:30:27.661728",
+    "tmdb_id": 37165,
+    "year": "1998",
+    "rating": 8.2
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "date": "2026-08-25T13:30:27.661728",
+    "tmdb_id": 414419,
+    "year": "2011",
+    "rating": 8.1
   }
 ]

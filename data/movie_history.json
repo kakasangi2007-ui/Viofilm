@@ -1626,5 +1626,19 @@
     "tmdb_id": 426,
     "year": "1958",
     "rating": 8.1
+  },
+  {
+    "title": "A Nice Indian Boy",
+    "date": "2026-08-26T13:35:33.009483",
+    "tmdb_id": 1128614,
+    "year": "2025",
+    "rating": 7.2
+  },
+  {
+    "title": "Finding Emily",
+    "date": "2026-08-26T13:35:33.009483",
+    "tmdb_id": 1339588,
+    "year": "2026",
+    "rating": 6.9
   }
 ]

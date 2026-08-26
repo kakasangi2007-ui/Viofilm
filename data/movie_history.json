@@ -1640,5 +1640,19 @@
     "tmdb_id": 1339588,
     "year": "2026",
     "rating": 6.9
+  },
+  {
+    "title": "All Wishes Come True!",
+    "date": "2026-08-26T23:47:07.276633",
+    "tmdb_id": 1633056,
+    "year": "2026",
+    "rating": 7.9
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "date": "2026-08-26T23:47:07.276633",
+    "tmdb_id": 106646,
+    "year": "2013",
+    "rating": 8.0
   }
 ]

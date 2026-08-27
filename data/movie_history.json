@@ -1654,5 +1654,19 @@
     "tmdb_id": 106646,
     "year": "2013",
     "rating": 8.0
+  },
+  {
+    "title": "Spider-Man 3",
+    "date": "2026-08-27T23:25:26.753158",
+    "tmdb_id": 559,
+    "year": "2007",
+    "rating": 6.5
+  },
+  {
+    "title": "My Hero Academia: Heroes Rising",
+    "date": "2026-08-27T23:25:26.753158",
+    "tmdb_id": 592350,
+    "year": "2019",
+    "rating": 8.1
   }
 ]

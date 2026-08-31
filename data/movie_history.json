@@ -1780,5 +1780,19 @@
     "tmdb_id": 1497463,
     "year": "2026",
     "rating": 8.1
+  },
+  {
+    "title": "Dark Hollow",
+    "date": "2026-09-01T02:26:29.729070",
+    "tmdb_id": 1748841,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Dead Man's Wire",
+    "date": "2026-09-01T02:26:29.729070",
+    "tmdb_id": 1263012,
+    "year": "2026",
+    "rating": 6.5
   }
 ]

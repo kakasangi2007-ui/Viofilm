@@ -1808,5 +1808,19 @@
     "tmdb_id": 508965,
     "year": "2019",
     "rating": 8.2
+  },
+  {
+    "title": "Animal Farm",
+    "date": "2026-09-02T00:39:31.767940",
+    "tmdb_id": 539745,
+    "year": "2026",
+    "rating": 6.4
+  },
+  {
+    "title": "The Rivals of Amziah King",
+    "date": "2026-09-02T00:39:31.767940",
+    "tmdb_id": 1124142,
+    "year": "2026",
+    "rating": 6.7
   }
 ]

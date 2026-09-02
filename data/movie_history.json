@@ -1836,5 +1836,19 @@
     "tmdb_id": 1470130,
     "year": "2026",
     "rating": 5.3
+  },
+  {
+    "title": "PAW Patrol: The Dino Movie",
+    "date": "2026-09-03T00:39:51.085980",
+    "tmdb_id": 1185806,
+    "year": "2026",
+    "rating": 7.1
+  },
+  {
+    "title": "Life Is Beautiful",
+    "date": "2026-09-03T00:39:51.085980",
+    "tmdb_id": 637,
+    "year": "1997",
+    "rating": 8.4
   }
 ]

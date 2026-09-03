@@ -1850,5 +1850,19 @@
     "tmdb_id": 637,
     "year": "1997",
     "rating": 8.4
+  },
+  {
+    "title": "Kraven the Hunter",
+    "date": "2026-09-03T17:15:59.311918",
+    "tmdb_id": 539972,
+    "year": "2024",
+    "rating": 6.4
+  },
+  {
+    "title": "Back to the 90s",
+    "date": "2026-09-03T17:15:59.311918",
+    "tmdb_id": 1676318,
+    "year": "2026",
+    "rating": 5.8
   }
 ]

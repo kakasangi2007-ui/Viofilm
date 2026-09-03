@@ -1864,5 +1864,19 @@
     "tmdb_id": 1676318,
     "year": "2026",
     "rating": 5.8
+  },
+  {
+    "title": "Pacific",
+    "date": "2026-09-04T00:39:55.909598",
+    "tmdb_id": 890216,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Charlie the Wonderdog",
+    "date": "2026-09-04T00:39:55.909598",
+    "tmdb_id": 1276521,
+    "year": "2025",
+    "rating": 6.3
   }
 ]

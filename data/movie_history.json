@@ -1892,5 +1892,19 @@
     "tmdb_id": 1423191,
     "year": "2026",
     "rating": 0.0
+  },
+  {
+    "title": "Scarface",
+    "date": "2026-09-05T00:22:16.580805",
+    "tmdb_id": 111,
+    "year": "1983",
+    "rating": 8.2
+  },
+  {
+    "title": "Alice Appears",
+    "date": "2026-09-05T00:22:16.580805",
+    "tmdb_id": 1756547,
+    "year": "2026",
+    "rating": "جدید"
   }
 ]

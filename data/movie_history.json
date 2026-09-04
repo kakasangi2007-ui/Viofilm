@@ -1878,5 +1878,19 @@
     "tmdb_id": 1276521,
     "year": "2025",
     "rating": 6.3
+  },
+  {
+    "title": "Hotel Desire",
+    "date": "2026-09-04T17:10:56.929578",
+    "tmdb_id": 82023,
+    "year": "2011",
+    "rating": 6.2
+  },
+  {
+    "title": "Resident Evil",
+    "date": "2026-09-04T17:10:56.929578",
+    "tmdb_id": 1423191,
+    "year": "2026",
+    "rating": 0.0
   }
 ]

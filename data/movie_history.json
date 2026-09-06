@@ -1934,5 +1934,19 @@
     "tmdb_id": 635302,
     "year": "2020",
     "rating": 8.2
+  },
+  {
+    "title": "Jurassic World Rebirth",
+    "date": "2026-09-06T16:32:29.618124",
+    "tmdb_id": 1234821,
+    "year": "2025",
+    "rating": 6.3
+  },
+  {
+    "title": "Up",
+    "date": "2026-09-06T16:32:29.618124",
+    "tmdb_id": 14160,
+    "year": "2009",
+    "rating": 8.0
   }
 ]

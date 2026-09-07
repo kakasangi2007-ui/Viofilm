@@ -1976,5 +1976,19 @@
     "tmdb_id": 1058694,
     "year": "2023",
     "rating": 8.3
+  },
+  {
+    "title": "Lilo & Stitch",
+    "date": "2026-09-08T01:06:47.293384",
+    "tmdb_id": 552524,
+    "year": "2025",
+    "rating": 7.2
+  },
+  {
+    "title": "Prison on Fire",
+    "date": "2026-09-08T01:06:47.293384",
+    "tmdb_id": 53653,
+    "year": "1987",
+    "rating": 7.0
   }
 ]

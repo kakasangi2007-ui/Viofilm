@@ -1962,5 +1962,19 @@
     "tmdb_id": 1447853,
     "year": "2026",
     "rating": 9.0
+  },
+  {
+    "title": "Thunderbolts*",
+    "date": "2026-09-07T18:38:56.962494",
+    "tmdb_id": 986056,
+    "year": "2025",
+    "rating": 7.3
+  },
+  {
+    "title": "Radical",
+    "date": "2026-09-07T18:38:56.962494",
+    "tmdb_id": 1058694,
+    "year": "2023",
+    "rating": 8.3
   }
 ]

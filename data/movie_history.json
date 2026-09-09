@@ -2018,5 +2018,19 @@
     "tmdb_id": 1284046,
     "year": "2026",
     "rating": 6.3
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "date": "2026-09-09T17:19:30.971059",
+    "tmdb_id": 810693,
+    "year": "2021",
+    "rating": 8.1
+  },
+  {
+    "title": "One Piece: The Movie",
+    "date": "2026-09-09T17:19:30.971059",
+    "tmdb_id": 19576,
+    "year": "2000",
+    "rating": 7.0
   }
 ]

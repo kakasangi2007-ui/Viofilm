@@ -2032,5 +2032,19 @@
     "tmdb_id": 19576,
     "year": "2000",
     "rating": 7.0
+  },
+  {
+    "title": "Reservoir Dogs",
+    "date": "2026-09-10T00:31:01.565909",
+    "tmdb_id": 500,
+    "year": "1992",
+    "rating": 8.1
+  },
+  {
+    "title": "Harakiri",
+    "date": "2026-09-10T00:31:01.565909",
+    "tmdb_id": 14537,
+    "year": "1962",
+    "rating": 8.5
   }
 ]

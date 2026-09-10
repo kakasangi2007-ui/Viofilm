@@ -2046,5 +2046,19 @@
     "tmdb_id": 14537,
     "year": "1962",
     "rating": 8.5
+  },
+  {
+    "title": "Innocent Voices",
+    "date": "2026-09-10T17:14:44.288585",
+    "tmdb_id": 20941,
+    "year": "2005",
+    "rating": 8.2
+  },
+  {
+    "title": "Whiplash",
+    "date": "2026-09-10T17:14:44.288585",
+    "tmdb_id": 244786,
+    "year": "2014",
+    "rating": 8.4
   }
 ]

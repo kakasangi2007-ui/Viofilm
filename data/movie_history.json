@@ -2102,5 +2102,19 @@
     "tmdb_id": 1669051,
     "year": "2026",
     "rating": 3.8
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "date": "2026-09-12T16:30:12.341461",
+    "tmdb_id": 12477,
+    "year": "1988",
+    "rating": 8.4
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "date": "2026-09-12T16:30:12.341461",
+    "tmdb_id": 299536,
+    "year": "2018",
+    "rating": 8.2
   }
 ]

@@ -2158,5 +2158,19 @@
     "tmdb_id": 264980,
     "year": "1972",
     "rating": 4.2
+  },
+  {
+    "title": "Hanuman Ansh",
+    "date": "2026-09-14T19:27:52.099275",
+    "tmdb_id": 1709391,
+    "year": "2026",
+    "rating": 8.6
+  },
+  {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "date": "2026-09-14T19:27:52.099275",
+    "tmdb_id": 18491,
+    "year": "1997",
+    "rating": 8.3
   }
 ]

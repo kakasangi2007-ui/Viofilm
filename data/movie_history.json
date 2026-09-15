@@ -2186,5 +2186,19 @@
     "tmdb_id": 1623376,
     "year": "2026",
     "rating": 8.0
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "date": "2026-09-15T17:54:52.766132",
+    "tmdb_id": 569094,
+    "year": "2023",
+    "rating": 8.3
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "date": "2026-09-15T17:54:52.766132",
+    "tmdb_id": 1240889,
+    "year": "2026",
+    "rating": 6.7
   }
 ]

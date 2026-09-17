@@ -2256,5 +2256,19 @@
     "tmdb_id": 1489187,
     "year": "2025",
     "rating": 7.5
+  },
+  {
+    "title": "The Mongoose",
+    "date": "2026-09-18T01:01:49.196337",
+    "tmdb_id": 1294189,
+    "year": "2026",
+    "rating": 0.0
+  },
+  {
+    "title": "Iron Man",
+    "date": "2026-09-18T01:01:49.196337",
+    "tmdb_id": 1726,
+    "year": "2008",
+    "rating": 7.7
   }
 ]

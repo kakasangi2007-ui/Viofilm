@@ -2242,5 +2242,19 @@
     "tmdb_id": 1516698,
     "year": "2026",
     "rating": 6.7
+  },
+  {
+    "title": "The Usual Suspects",
+    "date": "2026-09-17T17:53:02.704248",
+    "tmdb_id": 629,
+    "year": "1995",
+    "rating": 8.2
+  },
+  {
+    "title": "You Drive Me Crazy",
+    "date": "2026-09-17T17:53:02.704248",
+    "tmdb_id": 1489187,
+    "year": "2025",
+    "rating": 7.5
   }
 ]

@@ -2284,5 +2284,19 @@
     "tmdb_id": 1226699,
     "year": "2026",
     "rating": 5.9
+  },
+  {
+    "title": "Piper",
+    "date": "2026-09-19T00:31:54.657893",
+    "tmdb_id": 399106,
+    "year": "2016",
+    "rating": 8.1
+  },
+  {
+    "title": "Gabriel's Inferno",
+    "date": "2026-09-19T00:31:54.657893",
+    "tmdb_id": 696374,
+    "year": "2020",
+    "rating": 8.4
   }
 ]

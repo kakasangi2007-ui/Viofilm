@@ -2270,5 +2270,19 @@
     "tmdb_id": 1726,
     "year": "2008",
     "rating": 7.7
+  },
+  {
+    "title": "Iron Boy",
+    "date": "2026-09-18T17:13:46.682977",
+    "tmdb_id": 947493,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "The Wrong Girls",
+    "date": "2026-09-18T17:13:46.682977",
+    "tmdb_id": 1226699,
+    "year": "2026",
+    "rating": 5.9
   }
 ]

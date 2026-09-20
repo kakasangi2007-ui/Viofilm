@@ -2340,5 +2340,19 @@
     "tmdb_id": 6435,
     "year": "1998",
     "rating": 6.8
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "date": "2026-09-21T00:26:29.927467",
+    "tmdb_id": 634649,
+    "year": "2021",
+    "rating": 7.9
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "date": "2026-09-21T00:26:29.927467",
+    "tmdb_id": 361743,
+    "year": "2022",
+    "rating": 8.2
   }
 ]

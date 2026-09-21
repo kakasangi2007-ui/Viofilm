@@ -2354,5 +2354,19 @@
     "tmdb_id": 361743,
     "year": "2022",
     "rating": 8.2
+  },
+  {
+    "title": "You+Me - Against the World",
+    "date": "2026-09-21T19:29:00.124429",
+    "tmdb_id": 1641629,
+    "year": "2026",
+    "rating": 5.7
+  },
+  {
+    "title": "Venom: The Last Dance",
+    "date": "2026-09-21T19:29:00.124429",
+    "tmdb_id": 912649,
+    "year": "2024",
+    "rating": 6.7
   }
 ]

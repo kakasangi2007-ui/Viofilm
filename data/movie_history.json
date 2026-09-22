@@ -2396,5 +2396,19 @@
     "tmdb_id": 1264821,
     "year": "2026",
     "rating": 6.0
+  },
+  {
+    "title": "Prisoners",
+    "date": "2026-09-23T01:00:13.152559",
+    "tmdb_id": 146233,
+    "year": "2013",
+    "rating": 8.1
+  },
+  {
+    "title": "Full Metal Jacket",
+    "date": "2026-09-23T01:00:13.152559",
+    "tmdb_id": 600,
+    "year": "1987",
+    "rating": 8.1
   }
 ]

@@ -2410,5 +2410,19 @@
     "tmdb_id": 600,
     "year": "1987",
     "rating": 8.1
+  },
+  {
+    "title": "Practical Magic 2",
+    "date": "2026-09-23T17:49:40.935310",
+    "tmdb_id": 1302904,
+    "year": "2026",
+    "rating": 6.2
+  },
+  {
+    "title": "Blaze of Love",
+    "date": "2026-09-23T17:49:40.935310",
+    "tmdb_id": 1156869,
+    "year": "1994",
+    "rating": 0.0
   }
 ]

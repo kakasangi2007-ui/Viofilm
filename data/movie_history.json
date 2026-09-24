@@ -2452,5 +2452,19 @@
     "tmdb_id": 1451944,
     "year": "2026",
     "rating": 6.3
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "date": "2026-09-25T01:07:29.172018",
+    "tmdb_id": 131631,
+    "year": "2014",
+    "rating": 6.8
+  },
+  {
+    "title": "Cinema Paradiso",
+    "date": "2026-09-25T01:07:29.172018",
+    "tmdb_id": 11216,
+    "year": "1988",
+    "rating": 8.4
   }
 ]

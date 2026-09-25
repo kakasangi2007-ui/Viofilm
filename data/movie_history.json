@@ -2480,5 +2480,19 @@
     "tmdb_id": 161,
     "year": "2001",
     "rating": 7.5
+  },
+  {
+    "title": "Hi-Five",
+    "date": "2026-09-26T01:11:35.449916",
+    "tmdb_id": 793058,
+    "year": "2025",
+    "rating": 7.2
+  },
+  {
+    "title": "Jin-Roh: The Wolf Brigade",
+    "date": "2026-09-26T01:11:35.449916",
+    "tmdb_id": 823,
+    "year": "1999",
+    "rating": 7.4
   }
 ]

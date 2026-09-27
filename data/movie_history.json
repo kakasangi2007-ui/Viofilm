@@ -2522,5 +2522,19 @@
     "tmdb_id": 1553969,
     "year": "2026",
     "rating": 6.4
+  },
+  {
+    "title": "Sacrifice",
+    "date": "2026-09-27T18:17:31.419441",
+    "tmdb_id": 1284186,
+    "year": "2026",
+    "rating": 5.4
+  },
+  {
+    "title": "High and Low",
+    "date": "2026-09-27T18:17:31.419441",
+    "tmdb_id": 12493,
+    "year": "1963",
+    "rating": 8.4
   }
 ]

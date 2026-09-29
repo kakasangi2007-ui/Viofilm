@@ -2578,5 +2578,19 @@
     "tmdb_id": 10494,
     "year": "1998",
     "rating": 8.3
+  },
+  {
+    "title": "Miracle in Cell No. 7",
+    "date": "2026-09-29T19:33:30.890663",
+    "tmdb_id": 637920,
+    "year": "2019",
+    "rating": 8.3
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "date": "2026-09-29T19:33:30.890663",
+    "tmdb_id": 315635,
+    "year": "2017",
+    "rating": 7.3
   }
 ]

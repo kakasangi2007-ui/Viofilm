@@ -2606,5 +2606,19 @@
     "tmdb_id": 1766421,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Clayface",
+    "date": "2026-09-30T19:31:55.151698",
+    "tmdb_id": 1400940,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "date": "2026-09-30T19:31:55.151698",
+    "tmdb_id": 280,
+    "year": "1991",
+    "rating": 8.2
   }
 ]

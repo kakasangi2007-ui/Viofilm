@@ -2676,5 +2676,19 @@
     "tmdb_id": 1242898,
     "year": "2025",
     "rating": 7.8
+  },
+  {
+    "title": "Ghost in the Cell",
+    "date": "2026-10-03T01:53:05.879996",
+    "tmdb_id": 1393326,
+    "year": "2026",
+    "rating": 7.1
+  },
+  {
+    "title": "Livestream from Hell",
+    "date": "2026-10-03T01:53:05.879996",
+    "tmdb_id": 1437195,
+    "year": "2026",
+    "rating": 5.7
   }
 ]

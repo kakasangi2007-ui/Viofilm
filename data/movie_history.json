@@ -2690,5 +2690,19 @@
     "tmdb_id": 1437195,
     "year": "2026",
     "rating": 5.7
+  },
+  {
+    "title": "Dead Poets Society",
+    "date": "2026-10-03T17:53:03.120093",
+    "tmdb_id": 207,
+    "year": "1989",
+    "rating": 8.3
+  },
+  {
+    "title": "The Fantastic 4: First Steps",
+    "date": "2026-10-03T17:53:03.120093",
+    "tmdb_id": 617126,
+    "year": "2025",
+    "rating": 6.9
   }
 ]

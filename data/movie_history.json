@@ -2718,5 +2718,19 @@
     "tmdb_id": 1437703,
     "year": "2026",
     "rating": 7.4
+  },
+  {
+    "title": "Fresh Meat",
+    "date": "2026-10-04T18:25:23.321314",
+    "tmdb_id": 1737740,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "date": "2026-10-04T18:25:23.321314",
+    "tmdb_id": 274,
+    "year": "1991",
+    "rating": 8.3
   }
 ]

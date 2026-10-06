@@ -2760,5 +2760,19 @@
     "tmdb_id": 1011477,
     "year": "2025",
     "rating": 7.0
+  },
+  {
+    "title": "Daniel and the Fiery Furnace",
+    "date": "2026-10-06T03:41:19.478615",
+    "tmdb_id": 1706702,
+    "year": "2026",
+    "rating": 6.8
+  },
+  {
+    "title": "NAZA",
+    "date": "2026-10-06T03:41:19.478615",
+    "tmdb_id": 1755291,
+    "year": "2026",
+    "rating": 8.1
   }
 ]

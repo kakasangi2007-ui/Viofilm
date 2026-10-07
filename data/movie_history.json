@@ -2816,5 +2816,19 @@
     "tmdb_id": 1629064,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Doing Life",
+    "date": "2026-10-08T02:42:28.622293",
+    "tmdb_id": 1458857,
+    "year": "2026",
+    "rating": 7.4
+  },
+  {
+    "title": "Avengers: Endgame",
+    "date": "2026-10-08T02:42:28.622293",
+    "tmdb_id": 299534,
+    "year": "2019",
+    "rating": 8.2
   }
 ]

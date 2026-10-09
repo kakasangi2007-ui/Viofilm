@@ -2872,5 +2872,19 @@
     "tmdb_id": 1317872,
     "year": "2026",
     "rating": 4.6
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "date": "2026-10-10T02:15:48.631735",
+    "tmdb_id": 9479,
+    "year": "1993",
+    "rating": 7.8
+  },
+  {
+    "title": "Club Kid",
+    "date": "2026-10-10T02:15:48.631735",
+    "tmdb_id": 1585239,
+    "year": "2026",
+    "rating": "جدید"
   }
 ]

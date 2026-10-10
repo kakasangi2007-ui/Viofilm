@@ -2886,5 +2886,19 @@
     "tmdb_id": 1585239,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "The Weight",
+    "date": "2026-10-10T19:00:55.629224",
+    "tmdb_id": 1433583,
+    "year": "2026",
+    "rating": 6.8
+  },
+  {
+    "title": "Kung Fu Soccer",
+    "date": "2026-10-10T19:00:55.629224",
+    "tmdb_id": 1491920,
+    "year": "2026",
+    "rating": 6.0
   }
 ]

@@ -2900,5 +2900,19 @@
     "tmdb_id": 1491920,
     "year": "2026",
     "rating": 6.0
+  },
+  {
+    "title": "Better Days",
+    "date": "2026-10-11T01:23:32.222637",
+    "tmdb_id": 575813,
+    "year": "2019",
+    "rating": 8.1
+  },
+  {
+    "title": "Death Whisperer: Saming the Werebeast",
+    "date": "2026-10-11T01:23:32.222637",
+    "tmdb_id": 1556321,
+    "year": "2026",
+    "rating": 0.0
   }
 ]

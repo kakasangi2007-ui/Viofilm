@@ -2956,5 +2956,19 @@
     "tmdb_id": 539,
     "year": "1960",
     "rating": 8.4
+  },
+  {
+    "title": "The Cat in the Hat",
+    "date": "2026-10-13T04:22:02.351847",
+    "tmdb_id": 1117898,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Dune: Part Two",
+    "date": "2026-10-13T04:22:02.351847",
+    "tmdb_id": 693134,
+    "year": "2024",
+    "rating": 8.1
   }
 ]

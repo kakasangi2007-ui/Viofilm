@@ -2970,5 +2970,19 @@
     "tmdb_id": 693134,
     "year": "2024",
     "rating": 8.1
+  },
+  {
+    "title": "Trainspotting",
+    "date": "2026-10-13T20:33:38.854870",
+    "tmdb_id": 627,
+    "year": "1996",
+    "rating": 8.0
+  },
+  {
+    "title": "The Thing with Feathers",
+    "date": "2026-10-13T20:33:38.854870",
+    "tmdb_id": 1127628,
+    "year": "2025",
+    "rating": 6.5
   }
 ]

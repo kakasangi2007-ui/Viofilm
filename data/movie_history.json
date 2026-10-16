@@ -3068,5 +3068,19 @@
     "tmdb_id": 504253,
     "year": "2018",
     "rating": 8.2
+  },
+  {
+    "title": "By Any Means",
+    "date": "2026-10-17T00:55:45.344950",
+    "tmdb_id": 1380417,
+    "year": "2026",
+    "rating": 7.3
+  },
+  {
+    "title": "Charlie Harper",
+    "date": "2026-10-17T00:55:45.344950",
+    "tmdb_id": 1126097,
+    "year": "2026",
+    "rating": 7.5
   }
 ]

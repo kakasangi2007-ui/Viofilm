@@ -3082,5 +3082,19 @@
     "tmdb_id": 1126097,
     "year": "2026",
     "rating": 7.5
+  },
+  {
+    "title": "Come and See",
+    "date": "2026-10-17T16:35:34.361868",
+    "tmdb_id": 25237,
+    "year": "1985",
+    "rating": 8.2
+  },
+  {
+    "title": "You Can See Everything",
+    "date": "2026-10-17T16:35:34.361868",
+    "tmdb_id": 1765072,
+    "year": "2026",
+    "rating": 7.6
   }
 ]

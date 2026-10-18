@@ -3124,5 +3124,19 @@
     "tmdb_id": 1180894,
     "year": "2026",
     "rating": 5.3
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "date": "2026-10-19T00:25:12.870524",
+    "tmdb_id": 10404,
+    "year": "1991",
+    "rating": 7.9
+  },
+  {
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "date": "2026-10-19T00:25:12.870524",
+    "tmdb_id": 283566,
+    "year": "2021",
+    "rating": 8.2
   }
 ]

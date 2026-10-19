@@ -3152,5 +3152,19 @@
     "tmdb_id": 1290418,
     "year": "2026",
     "rating": 9.0
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "date": "2026-10-20T02:00:11.473382",
+    "tmdb_id": 4935,
+    "year": "2004",
+    "rating": 8.4
+  },
+  {
+    "title": "Pegasus 3",
+    "date": "2026-10-20T02:00:11.473382",
+    "tmdb_id": 1462229,
+    "year": "2026",
+    "rating": 7.0
   }
 ]

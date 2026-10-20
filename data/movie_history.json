@@ -3180,5 +3180,19 @@
     "tmdb_id": 1336166,
     "year": "2026",
     "rating": 8.0
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "date": "2026-10-21T01:14:59.240197",
+    "tmdb_id": 935,
+    "year": "1964",
+    "rating": 8.1
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "date": "2026-10-21T01:14:59.240197",
+    "tmdb_id": 76341,
+    "year": "2015",
+    "rating": 7.6
   }
 ]

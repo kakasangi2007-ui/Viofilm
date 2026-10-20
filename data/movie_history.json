@@ -3166,5 +3166,19 @@
     "tmdb_id": 1462229,
     "year": "2026",
     "rating": 7.0
+  },
+  {
+    "title": "The Whistler",
+    "date": "2026-10-20T17:55:27.628374",
+    "tmdb_id": 1280300,
+    "year": "2026",
+    "rating": 5.2
+  },
+  {
+    "title": "Rolling Loud: The Movie",
+    "date": "2026-10-20T17:55:27.628374",
+    "tmdb_id": 1336166,
+    "year": "2026",
+    "rating": 8.0
   }
 ]

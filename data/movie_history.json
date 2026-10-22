@@ -3222,5 +3222,19 @@
     "tmdb_id": 1784427,
     "year": "2026",
     "rating": 0.0
+  },
+  {
+    "title": "Once Upon a Studio",
+    "date": "2026-10-22T18:06:07.985808",
+    "tmdb_id": 1139087,
+    "year": "2023",
+    "rating": 8.3
+  },
+  {
+    "title": "The Beloved",
+    "date": "2026-10-22T18:06:07.985808",
+    "tmdb_id": 1074074,
+    "year": "2026",
+    "rating": 6.9
   }
 ]

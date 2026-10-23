@@ -3264,5 +3264,19 @@
     "tmdb_id": 1096228,
     "year": "2026",
     "rating": 5.8
+  },
+  {
+    "title": "Silent Friend",
+    "date": "2026-10-24T01:01:45.296074",
+    "tmdb_id": 1168719,
+    "year": "2026",
+    "rating": 7.2
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "date": "2026-10-24T01:01:45.296074",
+    "tmdb_id": 1891,
+    "year": "1980",
+    "rating": 8.4
   }
 ]

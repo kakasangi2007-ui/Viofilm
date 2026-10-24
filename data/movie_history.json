@@ -3278,5 +3278,19 @@
     "tmdb_id": 1891,
     "year": "1980",
     "rating": 8.4
+  },
+  {
+    "title": "Street Fighter",
+    "date": "2026-10-24T16:58:45.006433",
+    "tmdb_id": 1153576,
+    "year": "2026",
+    "rating": 6.4
+  },
+  {
+    "title": "V/H/S/Halloween",
+    "date": "2026-10-24T16:58:45.006433",
+    "tmdb_id": 1373445,
+    "year": "2025",
+    "rating": 6.2
   }
 ]

@@ -3292,5 +3292,19 @@
     "tmdb_id": 1373445,
     "year": "2025",
     "rating": 6.2
+  },
+  {
+    "title": "Its Presence Between Us",
+    "date": "2026-10-25T00:30:01.565062",
+    "tmdb_id": 1620711,
+    "year": "2026",
+    "rating": 0.0
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "date": "2026-10-25T00:30:01.565062",
+    "tmdb_id": 510,
+    "year": "1975",
+    "rating": 8.4
   }
 ]

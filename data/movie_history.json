@@ -3306,5 +3306,19 @@
     "tmdb_id": 510,
     "year": "1975",
     "rating": 8.4
+  },
+  {
+    "title": "Buddy",
+    "date": "2026-10-25T17:20:16.434611",
+    "tmdb_id": 1514026,
+    "year": "2026",
+    "rating": 7.1
+  },
+  {
+    "title": "The Running Man",
+    "date": "2026-10-25T17:20:16.434611",
+    "tmdb_id": 798645,
+    "year": "2025",
+    "rating": 6.7
   }
 ]

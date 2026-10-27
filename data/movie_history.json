@@ -3362,5 +3362,19 @@
     "tmdb_id": 1300968,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Ikiru",
+    "date": "2026-10-27T18:58:56.739363",
+    "tmdb_id": 3782,
+    "year": "1952",
+    "rating": 8.3
+  },
+  {
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "date": "2026-10-27T18:58:56.739363",
+    "tmdb_id": 1477104,
+    "year": "2026",
+    "rating": 7.3
   }
 ]

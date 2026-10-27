@@ -3376,5 +3376,19 @@
     "tmdb_id": 1477104,
     "year": "2026",
     "rating": 7.3
+  },
+  {
+    "title": "The Crow",
+    "date": "2026-10-28T01:56:34.496242",
+    "tmdb_id": 9495,
+    "year": "1994",
+    "rating": 7.5
+  },
+  {
+    "title": "The Others",
+    "date": "2026-10-28T01:56:34.496242",
+    "tmdb_id": 1933,
+    "year": "2001",
+    "rating": 7.6
   }
 ]

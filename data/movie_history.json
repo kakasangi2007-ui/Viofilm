@@ -3390,5 +3390,19 @@
     "tmdb_id": 1933,
     "year": "2001",
     "rating": 7.6
+  },
+  {
+    "title": "Vermiglio",
+    "date": "2026-10-28T19:42:24.477022",
+    "tmdb_id": 1151244,
+    "year": "2024",
+    "rating": 7.0
+  },
+  {
+    "title": "Blade Runner 2049",
+    "date": "2026-10-28T19:42:24.477022",
+    "tmdb_id": 335984,
+    "year": "2017",
+    "rating": 7.6
   }
 ]

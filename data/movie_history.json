@@ -3474,5 +3474,19 @@
     "tmdb_id": 213681,
     "year": "2016",
     "rating": 5.8
+  },
+  {
+    "title": "Apocalypse Now",
+    "date": "2026-10-31T18:57:35.077595",
+    "tmdb_id": 28,
+    "year": "1979",
+    "rating": 8.3
+  },
+  {
+    "title": "Way of the Warrior Kid",
+    "date": "2026-10-31T18:57:35.077595",
+    "tmdb_id": 1280115,
+    "year": "2026",
+    "rating": "جدید"
   }
 ]

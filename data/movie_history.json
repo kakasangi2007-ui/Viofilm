@@ -3488,5 +3488,19 @@
     "tmdb_id": 1280115,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "Despicable Me",
+    "date": "2026-11-01T01:15:27.626414",
+    "tmdb_id": 20352,
+    "year": "2010",
+    "rating": 7.3
+  },
+  {
+    "title": "Lockbox",
+    "date": "2026-11-01T01:15:27.626414",
+    "tmdb_id": 1500890,
+    "year": "2026",
+    "rating": 6.3
   }
 ]

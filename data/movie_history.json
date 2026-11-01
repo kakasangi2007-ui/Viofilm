@@ -3502,5 +3502,19 @@
     "tmdb_id": 1500890,
     "year": "2026",
     "rating": 6.3
+  },
+  {
+    "title": "Ramayana: Rise of a Legend",
+    "date": "2026-11-01T19:43:43.053679",
+    "tmdb_id": 656908,
+    "year": "2026",
+    "rating": 10.0
+  },
+  {
+    "title": "Alien",
+    "date": "2026-11-01T19:43:43.053679",
+    "tmdb_id": 348,
+    "year": "1979",
+    "rating": 8.2
   }
 ]

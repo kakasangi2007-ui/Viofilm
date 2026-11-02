@@ -3530,5 +3530,19 @@
     "tmdb_id": 1792914,
     "year": "2026",
     "rating": 0.0
+  },
+  {
+    "title": "My Dearest Assassin",
+    "date": "2026-11-02T23:10:38.279257",
+    "tmdb_id": 1630423,
+    "year": "2026",
+    "rating": 8.6
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-11-02T23:10:38.279257",
+    "tmdb_id": 1170608,
+    "year": "2026",
+    "rating": 0.0
   }
 ]

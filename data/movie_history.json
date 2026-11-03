@@ -3544,5 +3544,19 @@
     "tmdb_id": 1170608,
     "year": "2026",
     "rating": 0.0
+  },
+  {
+    "title": "Spanglish",
+    "date": "2026-11-03T04:36:09.419426",
+    "tmdb_id": 2539,
+    "year": "2004",
+    "rating": 6.1
+  },
+  {
+    "title": "Violet Evergarden: The Movie",
+    "date": "2026-11-03T04:36:09.419426",
+    "tmdb_id": 533514,
+    "year": "2020",
+    "rating": 8.3
   }
 ]

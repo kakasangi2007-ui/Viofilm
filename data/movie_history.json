@@ -3558,5 +3558,19 @@
     "tmdb_id": 533514,
     "year": "2020",
     "rating": 8.3
+  },
+  {
+    "title": "The Awakening",
+    "date": "2026-11-03T20:43:32.371506",
+    "tmdb_id": 1657630,
+    "year": "2026",
+    "rating": 6.5
+  },
+  {
+    "title": "The Social Reckoning",
+    "date": "2026-11-03T20:43:32.371506",
+    "tmdb_id": 1281331,
+    "year": "2026",
+    "rating": 7.0
   }
 ]

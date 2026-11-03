@@ -3572,5 +3572,19 @@
     "tmdb_id": 1281331,
     "year": "2026",
     "rating": 7.0
+  },
+  {
+    "title": "The Devils",
+    "date": "2026-11-04T03:00:53.507402",
+    "tmdb_id": 31767,
+    "year": "1971",
+    "rating": 7.5
+  },
+  {
+    "title": "Jim Queen and the Quest for Chloroqueer",
+    "date": "2026-11-04T03:00:53.507402",
+    "tmdb_id": 1061798,
+    "year": "2026",
+    "rating": 7.9
   }
 ]

@@ -3586,5 +3586,19 @@
     "tmdb_id": 1061798,
     "year": "2026",
     "rating": 7.9
+  },
+  {
+    "title": "Training Day",
+    "date": "2026-11-04T20:54:55.842006",
+    "tmdb_id": 2034,
+    "year": "2001",
+    "rating": 7.5
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "date": "2026-11-04T20:54:55.842006",
+    "tmdb_id": 672,
+    "year": "2002",
+    "rating": 7.7
   }
 ]

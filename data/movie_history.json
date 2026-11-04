@@ -3600,5 +3600,19 @@
     "tmdb_id": 672,
     "year": "2002",
     "rating": 7.7
+  },
+  {
+    "title": "Parasomnia",
+    "date": "2026-11-05T03:17:52.639940",
+    "tmdb_id": 1512010,
+    "year": "2025",
+    "rating": 6.2
+  },
+  {
+    "title": "TAYLOR SWIFT | THE ERAS TOUR",
+    "date": "2026-11-05T03:17:52.639940",
+    "tmdb_id": 1160164,
+    "year": "2023",
+    "rating": 8.2
   }
 ]

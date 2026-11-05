@@ -3614,5 +3614,19 @@
     "tmdb_id": 1160164,
     "year": "2023",
     "rating": 8.2
+  },
+  {
+    "title": "Mickey's Slayhouse",
+    "date": "2026-11-05T21:02:28.274309",
+    "tmdb_id": 1393056,
+    "year": "2025",
+    "rating": 7.3
+  },
+  {
+    "title": "Surviving Hurricane Otis",
+    "date": "2026-11-05T21:02:28.274309",
+    "tmdb_id": 1780005,
+    "year": "2026",
+    "rating": 7.5
   }
 ]

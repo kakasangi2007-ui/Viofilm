@@ -3628,5 +3628,19 @@
     "tmdb_id": 1780005,
     "year": "2026",
     "rating": 7.5
+  },
+  {
+    "title": "Paper Tiger",
+    "date": "2026-11-06T03:14:08.091376",
+    "tmdb_id": 1381273,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Les Misérables",
+    "date": "2026-11-06T03:14:08.091376",
+    "tmdb_id": 1241803,
+    "year": "2026",
+    "rating": 7.2
   }
 ]

@@ -3712,5 +3712,19 @@
     "tmdb_id": 1228834,
     "year": "2026",
     "rating": 5.9
+  },
+  {
+    "title": "The Virgin Suicides",
+    "date": "2026-11-09T01:47:48.959977",
+    "tmdb_id": 1443,
+    "year": "2000",
+    "rating": 7.1
+  },
+  {
+    "title": "Love Hurts",
+    "date": "2026-11-09T01:47:48.959977",
+    "tmdb_id": 51822,
+    "year": "2002",
+    "rating": 8.2
   }
 ]

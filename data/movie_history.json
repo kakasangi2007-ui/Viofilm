@@ -3726,5 +3726,19 @@
     "tmdb_id": 51822,
     "year": "2002",
     "rating": 8.2
+  },
+  {
+    "title": "The Imitation Game",
+    "date": "2026-11-09T23:27:09.298223",
+    "tmdb_id": 205596,
+    "year": "2014",
+    "rating": 8.0
+  },
+  {
+    "title": "War of the Worlds",
+    "date": "2026-11-09T23:27:09.298223",
+    "tmdb_id": 755898,
+    "year": "2025",
+    "rating": 4.0
   }
 ]

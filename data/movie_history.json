@@ -3768,5 +3768,19 @@
     "tmdb_id": 429,
     "year": "1966",
     "rating": 8.5
+  },
+  {
+    "title": "Casablanca",
+    "date": "2026-11-11T03:05:04.211780",
+    "tmdb_id": 289,
+    "year": "1943",
+    "rating": 8.1
+  },
+  {
+    "title": "A Dog's Perfect Christmas",
+    "date": "2026-11-11T03:05:04.211780",
+    "tmdb_id": 1570488,
+    "year": "2026",
+    "rating": 7.4
   }
 ]

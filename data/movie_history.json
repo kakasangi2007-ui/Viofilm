@@ -3754,5 +3754,19 @@
     "tmdb_id": 8587,
     "year": "1994",
     "rating": 8.2
+  },
+  {
+    "title": "A Beautiful Mind",
+    "date": "2026-11-10T20:42:14.478305",
+    "tmdb_id": 453,
+    "year": "2001",
+    "rating": 7.9
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "date": "2026-11-10T20:42:14.478305",
+    "tmdb_id": 429,
+    "year": "1966",
+    "rating": 8.5
   }
 ]

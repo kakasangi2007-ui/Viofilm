@@ -3740,5 +3740,19 @@
     "tmdb_id": 755898,
     "year": "2025",
     "rating": 4.0
+  },
+  {
+    "title": "You, Like a Star",
+    "date": "2026-11-10T05:09:51.287421",
+    "tmdb_id": 1590933,
+    "year": "2026",
+    "rating": 8.0
+  },
+  {
+    "title": "The Lion King",
+    "date": "2026-11-10T05:09:51.287421",
+    "tmdb_id": 8587,
+    "year": "1994",
+    "rating": 8.2
   }
 ]

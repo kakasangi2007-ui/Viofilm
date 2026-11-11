@@ -3782,5 +3782,19 @@
     "tmdb_id": 1570488,
     "year": "2026",
     "rating": 7.4
+  },
+  {
+    "title": "Treasure Trekkers",
+    "date": "2026-11-11T20:50:54.624897",
+    "tmdb_id": 1630237,
+    "year": "2026",
+    "rating": "جدید"
+  },
+  {
+    "title": "Parallel Tales",
+    "date": "2026-11-11T20:50:54.624897",
+    "tmdb_id": 1157869,
+    "year": "2026",
+    "rating": 5.7
   }
 ]

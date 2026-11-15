@@ -3908,5 +3908,19 @@
     "tmdb_id": 634,
     "year": "2001",
     "rating": 6.7
+  },
+  {
+    "title": "Amélie",
+    "date": "2026-11-16T02:30:12.365855",
+    "tmdb_id": 194,
+    "year": "2001",
+    "rating": 7.9
+  },
+  {
+    "title": "The Shadow's Edge",
+    "date": "2026-11-16T02:30:12.365855",
+    "tmdb_id": 1419406,
+    "year": "2025",
+    "rating": 8.4
   }
 ]

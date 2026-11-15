@@ -3894,5 +3894,19 @@
     "tmdb_id": 9702,
     "year": "1993",
     "rating": 8.2
+  },
+  {
+    "title": "Evil Dress",
+    "date": "2026-11-15T19:59:53.429870",
+    "tmdb_id": 1474226,
+    "year": "2026",
+    "rating": 6.4
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "date": "2026-11-15T19:59:53.429870",
+    "tmdb_id": 634,
+    "year": "2001",
+    "rating": 6.7
   }
 ]

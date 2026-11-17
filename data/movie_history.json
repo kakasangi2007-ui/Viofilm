@@ -3950,5 +3950,19 @@
     "tmdb_id": 1255833,
     "year": "2026",
     "rating": 6.6
+  },
+  {
+    "title": "Coyote vs. Acme",
+    "date": "2026-11-17T22:12:10.836362",
+    "tmdb_id": 1204680,
+    "year": "2026",
+    "rating": 8.2
+  },
+  {
+    "title": "Look Back",
+    "date": "2026-11-17T22:12:10.836362",
+    "tmdb_id": 1591675,
+    "year": "2026",
+    "rating": 8.2
   }
 ]

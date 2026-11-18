@@ -3964,5 +3964,19 @@
     "tmdb_id": 1591675,
     "year": "2026",
     "rating": 8.2
+  },
+  {
+    "title": "The Host",
+    "date": "2026-11-18T04:33:11.506382",
+    "tmdb_id": 1255,
+    "year": "2006",
+    "rating": 7.0
+  },
+  {
+    "title": "Masterplan",
+    "date": "2026-11-18T04:33:11.506382",
+    "tmdb_id": 1561726,
+    "year": "2026",
+    "rating": 6.7
   }
 ]

@@ -3978,5 +3978,19 @@
     "tmdb_id": 1561726,
     "year": "2026",
     "rating": 6.7
+  },
+  {
+    "title": "After Impact",
+    "date": "2026-11-18T21:48:02.478764",
+    "tmdb_id": 1751701,
+    "year": "2026",
+    "rating": 5.7
+  },
+  {
+    "title": "Love Actually",
+    "date": "2026-11-18T21:48:02.478764",
+    "tmdb_id": 508,
+    "year": "2003",
+    "rating": 7.1
   }
 ]

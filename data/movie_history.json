@@ -4020,5 +4020,19 @@
     "tmdb_id": 1310458,
     "year": "2025",
     "rating": 0.0
+  },
+  {
+    "title": "Heartland",
+    "date": "2026-11-20T04:13:43.757103",
+    "tmdb_id": 1543469,
+    "year": "2026",
+    "rating": 6.3
+  },
+  {
+    "title": "Light of the World",
+    "date": "2026-11-20T04:13:43.757103",
+    "tmdb_id": 1374686,
+    "year": "2025",
+    "rating": 8.9
   }
 ]

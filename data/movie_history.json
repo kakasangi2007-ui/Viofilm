@@ -4076,5 +4076,19 @@
     "tmdb_id": 1381027,
     "year": "2026",
     "rating": 7.2
+  },
+  {
+    "title": "Bicycle Thieves",
+    "date": "2026-11-22T02:59:17.950165",
+    "tmdb_id": 5156,
+    "year": "1948",
+    "rating": 8.2
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "date": "2026-11-22T02:59:17.950165",
+    "tmdb_id": 83533,
+    "year": "2025",
+    "rating": 7.6
   }
 ]

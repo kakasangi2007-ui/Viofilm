@@ -4048,5 +4048,19 @@
     "tmdb_id": 1100099,
     "year": "2024",
     "rating": 7.2
+  },
+  {
+    "title": "Modern Times",
+    "date": "2026-11-21T03:33:49.697569",
+    "tmdb_id": 3082,
+    "year": "1936",
+    "rating": 8.3
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "date": "2026-11-21T03:33:49.697569",
+    "tmdb_id": 324857,
+    "year": "2018",
+    "rating": 8.4
   }
 ]

@@ -4090,5 +4090,19 @@
     "tmdb_id": 83533,
     "year": "2025",
     "rating": 7.6
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "date": "2026-11-22T20:47:04.049432",
+    "tmdb_id": 15804,
+    "year": "1991",
+    "rating": 8.2
+  },
+  {
+    "title": "7 Dogs",
+    "date": "2026-11-22T20:47:04.049432",
+    "tmdb_id": 1316427,
+    "year": "2026",
+    "rating": 6.1
   }
 ]

@@ -4104,5 +4104,19 @@
     "tmdb_id": 1316427,
     "year": "2026",
     "rating": 6.1
+  },
+  {
+    "title": "The Muppets",
+    "date": "2026-11-23T03:10:52.382754",
+    "tmdb_id": 64328,
+    "year": "2011",
+    "rating": 6.7
+  },
+  {
+    "title": "The Anacondas",
+    "date": "2026-11-23T03:10:52.382754",
+    "tmdb_id": 1595325,
+    "year": "2025",
+    "rating": 3.5
   }
 ]

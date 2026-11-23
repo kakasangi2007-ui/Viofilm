@@ -4118,5 +4118,19 @@
     "tmdb_id": 1595325,
     "year": "2025",
     "rating": 3.5
+  },
+  {
+    "title": "A Room with a View",
+    "date": "2026-11-24T01:06:44.397835",
+    "tmdb_id": 11257,
+    "year": "1986",
+    "rating": 6.9
+  },
+  {
+    "title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "date": "2026-11-24T01:06:44.397835",
+    "tmdb_id": 50619,
+    "year": "2011",
+    "rating": 6.2
   }
 ]

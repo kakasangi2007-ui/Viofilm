@@ -4146,5 +4146,19 @@
     "tmdb_id": 760104,
     "year": "2022",
     "rating": 6.7
+  },
+  {
+    "title": "Drive - The Pretenders",
+    "date": "2026-11-24T23:47:01.163620",
+    "tmdb_id": 1596275,
+    "year": "2026",
+    "rating": 7.6
+  },
+  {
+    "title": "Collision Course",
+    "date": "2026-11-24T23:47:01.163620",
+    "tmdb_id": 1571955,
+    "year": "2026",
+    "rating": 6.4
   }
 ]

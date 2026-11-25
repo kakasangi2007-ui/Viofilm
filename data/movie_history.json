@@ -4160,5 +4160,19 @@
     "tmdb_id": 1571955,
     "year": "2026",
     "rating": 6.4
+  },
+  {
+    "title": "Red Beard",
+    "date": "2026-11-25T06:07:57.827208",
+    "tmdb_id": 3780,
+    "year": "1965",
+    "rating": 8.2
+  },
+  {
+    "title": "Justice League Dark: Apokolips War",
+    "date": "2026-11-25T06:07:57.827208",
+    "tmdb_id": 618344,
+    "year": "2020",
+    "rating": 8.2
   }
 ]

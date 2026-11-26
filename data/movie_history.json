@@ -4188,5 +4188,19 @@
     "tmdb_id": 1389765,
     "year": "2026",
     "rating": "جدید"
+  },
+  {
+    "title": "April X",
+    "date": "2026-11-26T05:22:35.187491",
+    "tmdb_id": 1403676,
+    "year": "2026",
+    "rating": 5.8
+  },
+  {
+    "title": "La venganza del Charro Negro",
+    "date": "2026-11-26T05:22:35.187491",
+    "tmdb_id": 1406492,
+    "year": "2026",
+    "rating": 7.0
   }
 ]

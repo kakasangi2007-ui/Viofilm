@@ -4230,5 +4230,19 @@
     "tmdb_id": 772,
     "year": "1992",
     "rating": 6.8
+  },
+  {
+    "title": "The Meltdown",
+    "date": "2026-11-27T22:37:01.816480",
+    "tmdb_id": 1210268,
+    "year": "2026",
+    "rating": 6.8
+  },
+  {
+    "title": "The Baby in the Basket",
+    "date": "2026-11-27T22:37:01.816480",
+    "tmdb_id": 1142913,
+    "year": "2025",
+    "rating": 4.8
   }
 ]
